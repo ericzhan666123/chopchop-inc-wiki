@@ -15,6 +15,19 @@ export const npcs = npcsJson as Entry[];
 export const excludedRecipePageIds = new Set(["Furniture_Beehouse", "WeightBench"]);
 export const visibleRecipes = recipes.filter((r) => r.displayName !== null && r.displayInRecipeBook !== false && !excludedRecipePageIds.has(r.id));
 export const recipeHasPage = (recipe: Recipe) => recipe.displayName !== null && recipe.displayInRecipeBook !== false;
+export const recipeCategories = [...new Set(visibleRecipes.map((recipe) => recipe.category).filter((category): category is string => Boolean(category)))].sort();
+export const itemCategories = [...new Set(items.map((item) => item.category).filter((category): category is string => Boolean(category)))].sort();
+const categoryLabels: Record<string, { en: string; de: string }> = {
+  carving: { en: "Carving", de: "Schnitzerei" }, city: { en: "City", de: "Stadt" }, cooking: { en: "Cooking", de: "Kochen" },
+  furniture: { en: "Furniture", de: "Möbel" }, furniturepackages: { en: "Furniture Packages", de: "Möbelpakete" }, houseupgrades: { en: "House Upgrades", de: "Hausverbesserungen" },
+  playerstats: { en: "Player Stats", de: "Spielerwerte" }, refinedmaterials: { en: "Refined Materials", de: "Verarbeitete Materialien" }, tech: { en: "Tech", de: "Technik" },
+  tools: { en: "Tools", de: "Werkzeuge" }, toys: { en: "Toys", de: "Spielzeug" }, turtleupgrades: { en: "Turtle Upgrades", de: "Schildkröten-Verbesserungen" },
+  weights: { en: "Weights", de: "Gewichte" }, worldobjects: { en: "World Objects", de: "Weltobjekte" }, items: { en: "Items", de: "Gegenstände" },
+  animals: { en: "Animals", de: "Tiere" }, axes: { en: "Axes", de: "Äxte" }, food: { en: "Food", de: "Lebensmittel" }, rawmaterials: { en: "Raw Materials", de: "Rohmaterialien" },
+  rubberducks: { en: "Rubber Ducks", de: "Gummienten" }, mushroomcut: { en: "Cut Mushrooms", de: "Geschnittene Pilze" },
+  furniture_special_sirworcestershirecastleboard01: { en: "Castle Board Furniture", de: "Burgbrett-Möbel" }, furniture_special_turtle: { en: "Turtle Furniture", de: "Schildkrötenmöbel" },
+};
+export const categoryLabel = (category: string, locale: Locale) => categoryLabels[category]?.[locale] ?? category.replace(/_/g, " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
 export const recipeDisplayName = (recipe: Recipe, locale: Locale) => recipe.displayName?.[locale] ?? recipe.outputs[0]?.name?.[locale] ?? null;
 export function recipePageTitle(recipe: Recipe, locale: Locale) {
   const name = recipeDisplayName(recipe, locale);

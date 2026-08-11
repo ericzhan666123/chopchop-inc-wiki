@@ -5,7 +5,7 @@ import { SearchGrid } from "./SearchGrid";
 import { EntryList } from "./EntryList";
 import { RecipeRefList } from "./RecipeRefList";
 import {
-  audiences, bySlug, ducks, items, npcs, pathFor, recipeDisplayName,
+  audiences, bySlug, categoryLabel, ducks, items, npcs, pathFor, recipeDisplayName,
   recipeHasPage, recipePageTitle, recipes, slugifyId, text, trees, visibleRecipes,
 } from "@/lib/content";
 import { labels } from "@/lib/i18n";
@@ -27,6 +27,15 @@ export function IndexPage({ kind, locale }: { kind: "recipes" | "items"; locale:
         subtitle: item.description ? text(item.description, locale) : undefined,
       }));
   return <Shell locale={locale}><div className="eyebrow">Chop Chop Inc.</div><h1>{l[kind]}</h1><p className="muted">{rows.length} {l.count}</p><SearchGrid rows={rows} searchLabel={l.search} filterLabel={l.filter} allLabel={l.all} /></Shell>;
+}
+
+export function CategoryPage({ kind, category, locale }: { kind: "recipes" | "items"; category: string; locale: Locale }) {
+  const l = labels[locale];
+  const recipeRows = visibleRecipes.filter((recipe) => recipe.category === category).map((recipe) => ({ name: text(recipe.displayName, locale), href: pathFor(locale, `/recipes/${slugifyId(recipe.id)}`), category: recipe.category ?? "other", subtitle: `${recipe.inputs[0]?.name?.[locale] ?? l.none} · ${recipe.craftTime} ${l.seconds}` }));
+  const itemRows = items.filter((item) => item.category === category).map((item) => ({ name: text(item.name, locale), href: pathFor(locale, `/items/${slugifyId(item.id)}`), category: item.category ?? "other", subtitle: item.description ? text(item.description, locale) : undefined }));
+  const rows = kind === "recipes" ? recipeRows : itemRows;
+  if (!rows.length) notFound();
+  return <Shell locale={locale}><Link className="eyebrow" href={pathFor(locale, `/${kind}`)}>← {l[kind]}</Link><h1>{categoryLabel(category, locale)}</h1><p className="muted">{rows.length} {l.count}</p><SearchGrid rows={rows} searchLabel={l.search} filterLabel={l.filter} allLabel={l.all} /></Shell>;
 }
 
 export function CollectionPage({ kind, locale }: { kind: "ducks" | "trees" | "audiences" | "npcs"; locale: Locale }) {
