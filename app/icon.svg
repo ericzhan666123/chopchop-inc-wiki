@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chop Chop Inc. Wiki icon">
+  <rect width="64" height="64" rx="12" fill="#10251b"/>
+  <circle cx="25" cy="39" r="16" fill="#c77b42" stroke="#f0c58d" stroke-width="4"/>
+  <circle cx="25" cy="39" r="7" fill="none" stroke="#6f3f25" stroke-width="4"/>
+  <path d="M35 31 50 14" fill="none" stroke="#e7b36f" stroke-width="7" stroke-linecap="round"/>
+  <path d="m42 8 14 5-5 12-13-8Z" fill="#dce5e1" stroke="#879792" stroke-width="3" stroke-linejoin="round"/>
+</svg>
