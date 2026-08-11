@@ -1,0 +1,149 @@
+[
+  {
+    "id": "Chest",
+    "key": "Character_Chest_Name",
+    "name": {
+      "en": "Chester Hoardington",
+      "de": "Chester Hoardington"
+    },
+    "description": null
+  },
+  {
+    "id": "Fish",
+    "key": "Character_Fish_Name",
+    "name": {
+      "en": "Sir Worcestershire III",
+      "de": "Sir Worcestershire III"
+    },
+    "description": null
+  },
+  {
+    "id": "Beaver",
+    "key": "Character_Beaver_Name",
+    "name": {
+      "en": "Bober the Builder",
+      "de": "Bober the Builder"
+    },
+    "description": null
+  },
+  {
+    "id": "HamsterMum",
+    "key": "Character_HamsterMum_Name",
+    "name": {
+      "en": "Momma Hamster",
+      "de": "Mama Hamster"
+    },
+    "description": null
+  },
+  {
+    "id": "HamsterDad",
+    "key": "Character_HamsterDad_Name",
+    "name": {
+      "en": "Daddy Hamster",
+      "de": "Papa Hamster"
+    },
+    "description": null
+  },
+  {
+    "id": "HamsterKids",
+    "key": "Character_HamsterKids_Name",
+    "name": {
+      "en": "Hamster Kids",
+      "de": "Hamster Kinder"
+    },
+    "description": null
+  },
+  {
+    "id": "HamsterNinja",
+    "key": "Character_HamsterNinja_Name",
+    "name": {
+      "en": "Hamster Ninja",
+      "de": "Hamster Ninja"
+    },
+    "description": null
+  },
+  {
+    "id": "ChessQueen",
+    "key": "Character_ChessQueen_Name",
+    "name": {
+      "en": "White Queen",
+      "de": "Weiße Dame"
+    },
+    "description": null
+  },
+  {
+    "id": "ChessKing",
+    "key": "Character_ChessKing_Name",
+    "name": {
+      "en": "White King",
+      "de": "Weißer König"
+    },
+    "description": null
+  },
+  {
+    "id": "Turtle",
+    "key": "Character_Turtle_Name",
+    "name": {
+      "en": "Ulf",
+      "de": "Ulf"
+    },
+    "description": null
+  },
+  {
+    "id": "Turtle_Upgrade01",
+    "key": "Character_Turtle_Upgrade01_Name",
+    "name": {
+      "en": "Improved Turtle Shell Armor +1",
+      "de": "Verbesserte Schildkröten-Panzerung +1"
+    },
+    "description": {
+      "en": "Slow but sturdy wins the fight! Watch out, Spiky!",
+      "de": "Langsam, aber robust gewinnt jeden Kampf. Pass auf, stachelig!"
+    }
+  },
+  {
+    "id": "DuckMale",
+    "key": "Character_DuckMale_Name",
+    "name": {
+      "en": "Harold",
+      "de": "Harold"
+    },
+    "description": null
+  },
+  {
+    "id": "DuckFemale",
+    "key": "Character_DuckFemale_Name",
+    "name": {
+      "en": "Mildred",
+      "de": "Mildred"
+    },
+    "description": null
+  },
+  {
+    "id": "DuckCultist01",
+    "key": "Character_DuckCultist01_Name",
+    "name": {
+      "en": "Walter \"Alpha Coin Whisperer\" Smith",
+      "de": "Walter \"Alpha Münzflüsterer\" Schmidt"
+    },
+    "description": null
+  },
+  {
+    "id": "DuckCultist02",
+    "key": "Character_DuckCultist02_Name",
+    "name": {
+      "en": "Luis \"Jackpot Witness\" Featherstone",
+      "de": "Luis \"Jackpot Zeuge\" Federstein"
+    },
+    "description": null
+  },
+  {
+    "id": "DucksBoth",
+    "key": "Character_DucksBoth_Name",
+    "name": {
+      "en": "The Moldwings",
+      "de": "Die Moldwings"
+    },
+    "description": null
+  }
+]

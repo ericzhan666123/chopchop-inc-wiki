@@ -1,0 +1,1 @@
+import {CollectionPage} from "@/components/pages";import {pageMetadata} from "@/lib/metadata";export const metadata=pageMetadata("Zielgruppen","Zielgruppen in Chop Chop Inc.","de","/audiences");export default function Page(){return <CollectionPage kind="audiences" locale="de"/>}

@@ -1,0 +1,1 @@
+import {CollectionPage} from "@/components/pages";import {pageMetadata} from "@/lib/metadata";export const metadata=pageMetadata("Gummienten","Alle Gummienten in Chop Chop Inc.","de","/ducks");export default function Page(){return <CollectionPage kind="ducks" locale="de"/>}

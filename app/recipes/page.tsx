@@ -1,0 +1,1 @@
+import {IndexPage} from "@/components/pages";import {pageMetadata} from "@/lib/metadata";export const metadata=pageMetadata("Recipes","Search all available Chop Chop Inc. crafting recipes.","en","/recipes");export default function Page(){return <IndexPage kind="recipes" locale="en"/>}

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "CityAdmin",
+    "key": "TargetAudience_CityAdmin_Name",
+    "name": {
+      "en": "City Administration",
+      "de": "Stadtverwaltung"
+    },
+    "description": {
+      "en": "\"Structure is freedom. Files are forever.\"\n\nThey exist to ensure that everything runs smoothly, is regulated, and is properly documented. They don't create problems, they categorize them. They regulate permits, seating arrangements, tree height ratios, and possibly even gravity (permit pending). If something exists, there is a department for it. Possibly even two.",
+      "de": "\"Struktur ist Freiheit. Akten sind für immer.\"\n\nSie existieren, um sicherzustellen, dass alles ruhig, geregelt und ordnungsgemäß dokumentiert abläuft. Sie schaffen keine Probleme, sie kategorisieren sie. Sie regeln Genehmigungen, Sitzordnungen, Baumhöhenverhältnisse und möglicherweise auch die Schwerkraft (Genehmigung läuft). Wenn etwas existiert, gibt es eine Abteilung dafür. Wahrscheinlich sogar zwei."
+    }
+  },
+  {
+    "id": "FitnessFreaks",
+    "key": "TargetAudience_FitnessFreaks_Name",
+    "name": {
+      "en": "Church of Eternal Gains",
+      "de": "Kirche des ewigen Proteins"
+    },
+    "description": {
+      "en": "\"In the beginning, there was the Protein.\"\n\nFrequently flexing in public spaces. Half fitness cult, half motivational movement. They measure life in reps, macros, and personal protein needs. They don't have any formal political power, but their social influence is huge. Mainly because they never stop talking about their diet.",
+      "de": "\"Am Anfang war das Protein.\"\n\nPräsentieren sich häufig in öffentlichen Räumen. Halb Fitnesskult, halb Motivationsbewegung. Sie messen das Leben in Wiederholungen, Makros und persönlichem Protein-Bedarf. Sie haben keine formelle politische Macht, aber ihr sozialer Einfluss ist immens. Vor allem, weil sie nicht aufhören, ständig über ihre Ernährung zu sprechen."
+    }
+  },
+  {
+    "id": "Industry",
+    "key": "TargetAudience_Industry_Name",
+    "name": {
+      "en": "Union of Questionable Safety Practices",
+      "de": "Verband für fragwürdige Sicherheitspraktiken"
+    },
+    "description": {
+      "en": "\"If it works, it works.\"\n\nPractical. Direct. Allergic to nonsense. They build, fix, lift, repair and occasionally argue about the correct way to do all four.",
+      "de": "\"Wenn es funktioniert, funktioniert es.\"\n\nPraktisch. Direkt. Allergisch gegen Unsinn. Sie bauen, reparieren, montieren, renovieren und streiten sich gelegentlich darüber, wie man all diese Dinge am besten macht."
+    }
+  },
+  {
+    "id": "Moneybags",
+    "key": "TargetAudience_Moneybags_Name",
+    "name": {
+      "en": "Champagne Committee",
+      "de": "Champagner-Komitee"
+    },
+    "description": {
+      "en": "\"Taste is inherited.\"\n\nA polished group of individuals who enjoy exclusivity, comfort and describing basic things as \"curated experiences.\" They rarely panic. They simply relocate the problem to a different person.",
+      "de": "\"Geschmack wird vererbt.\"\n\nEine kultivierte Gruppe von Menschen, die Exklusivität und Komfort genießen und grundlegende Dinge als „kuratierte Erlebnisse“ bezeichnen. Sie geraten selten in Panik. Sie verlagern das Problem einfach auf eine andere Person."
+    }
+  },
+  {
+    "id": "Nerds",
+    "key": "TargetAudience_Nerds_Name",
+    "name": {
+      "en": "Spreadsheet Militia",
+      "de": "Tabellenkalkulations-Miliz"
+    },
+    "description": {
+      "en": "\"There is always an optimal way.\"\n\nA fusion of lab coat logic and gaming obsession. They don't guess, they calculate. They don't try, they theorycraft.",
+      "de": "\"Es gibt immer einen optimalen Weg.\"\n\nEine Fusion aus Laborlogik und Gaming-Besessenheit. Sie raten nicht, sie berechnen. Sie probieren nicht aus, sie entwickeln Theorien."
+    }
+  },
+  {
+    "id": "Rascals",
+    "key": "TargetAudience_Rascals_Name",
+    "name": {
+      "en": "The League of Little Rascals",
+      "de": "Die Liga der kleinen Racker"
+    },
+    "description": {
+      "en": "\"Why not?\"\n\nSmall in stature. Massive in chaos potential. They operate on creativity, sugar and complete disregard for reasonable limits.",
+      "de": "\"Warum nicht?\"\n\nKleine Statur. Großes Chaospotenzial. Sie leben von Kreativität, Zucker und der völligen Missachtung vernünftiger Grenzen."
+    }
+  },
+  {
+    "id": "Survivalists",
+    "key": "TargetAudience_Survivalists_Name",
+    "name": {
+      "en": "Tactical Tinfoil Society",
+      "de": "Verein für taktische Alufolie"
+    },
+    "description": {
+      "en": "\"Aluminum foil is essential.\"\n\nThey are not paranoid. They are prepared. Extremely prepared. For events both plausible and highly cinematic.",
+      "de": "\"Alufolie ist lebenswichtig.\"\n\nSie sind nicht paranoid. Sie sind vorbereitet. Extrem gut vorbereitet. Auf Ereignisse, die sowohl plausibel als auch höchst filmreif sind."
+    }
+  },
+  {
+    "id": "MainGoalOnly_WoodenHorses",
+    "key": "TargetAudience_MainGoalOnly_WoodenHorses_Name",
+    "name": {
+      "en": "Destroy Furnox's wooden spies",
+      "de": "Zerstöre Furnox hölzerne Spione"
+    },
+    "description": null
+  },
+  {
+    "id": "AdultsClub",
+    "key": "TargetAudience_AdultsClub_Name",
+    "name": {
+      "en": "The Discreet Bookclub",
+      "de": "Der diskrete Buchclub"
+    },
+    "description": {
+      "en": "\"What happens here was tastefully planned.\"\n\nA members-only social circle that specializes in ambiance, velvet textures, and situations that require plausible deniability. Publicly, they are \"just a social club\". Privately, they know who owes whom, who embarrassed themselves and who prefers dim lighting.",
+      "de": "\"Was hier geschieht, wurde geschmackvoll geplant.\"\n\nEin exklusiver Kreis, der sich auf Ambiente, Samttexturen und Situationen spezialisiert hat, die eine plausible Ausrede erfordern. Öffentlich sind sie \"nur ein Gesellschaftsclub\". Privat wissen sie, wer wem etwas schuldet, wer sich blamiert hat und wer gedämpftes Licht bevorzugt."
+    }
+  },
+  {
+    "id": "MainGoalOnly_Ads",
+    "key": "TargetAudience_MainGoalOnly_Ads_Name",
+    "name": {
+      "en": "Destroy the Furnox-Ads in the tunnel and replace them with your own ad signs. This little stunt should bring in plenty of new customers.",
+      "de": "Zerstört die Furnox-Werbung im Tunnel und ersetzt sie durch eure eigenen Werbeschilder. Dieser kleine Coup sollte jede Menge neue Kunden bringen."
+    },
+    "description": null
+  }
+]

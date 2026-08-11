@@ -1,0 +1,3954 @@
+[
+  {
+    "id": "Item_AluminiumFoil",
+    "prefabPath": "Resources/items/Item_AluminiumFoil.prefab",
+    "category": "items",
+    "assetID": -843517579,
+    "name": {
+      "en": "Aluminium Foil",
+      "de": "Aluminiumfolie"
+    },
+    "description": {
+      "en": "A shiny heat resistant multitool.",
+      "de": "Ein glitzerndes hitzebeständiges Universalwerkzeug."
+    },
+    "sellValue": 6,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Amberstone01",
+    "prefabPath": "Resources/items/Item_Amberstone01.prefab",
+    "category": "items",
+    "assetID": -983099534,
+    "name": null,
+    "description": null,
+    "sellValue": 1,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Backpack",
+    "prefabPath": "Resources/items/Item_Backpack.prefab",
+    "category": "items",
+    "assetID": 778297096,
+    "name": {
+      "en": "Backpack",
+      "de": "Rucksack"
+    },
+    "description": {
+      "en": "A loyal companion in overpacking.",
+      "de": "Ein loyaler Begleiter für überladene Abenteuer."
+    },
+    "sellValue": 25,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_BeverageHolderSet",
+    "prefabPath": "Resources/items/Item_BeverageHolderSet.prefab",
+    "category": "items",
+    "assetID": 1503045946,
+    "name": {
+      "en": "Beverage Holder Set",
+      "de": "Getränkehalter Set"
+    },
+    "description": {
+      "en": "Ideal solution to hold bottles and glasses.",
+      "de": "Ideal um Flaschen und Gläser zu befestigen."
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_BoxOfLetters",
+    "prefabPath": "Resources/items/Item_BoxOfLetters.prefab",
+    "category": "items",
+    "assetID": -2069558327,
+    "name": {
+      "en": "Box of Letters",
+      "de": "Buchstaben Paket"
+    },
+    "description": {
+      "en": "A, B, C, D, E, F, G...",
+      "de": "A, B, C, D, E, F, G..."
+    },
+    "sellValue": 15,
+    "buyValue": 29,
+    "isSellable": false
+  },
+  {
+    "id": "Item_CabinDoor01",
+    "prefabPath": "Resources/items/Item_CabinDoor01.prefab",
+    "category": "items",
+    "assetID": -1833113400,
+    "name": {
+      "en": "Door",
+      "de": "Tür"
+    },
+    "description": {
+      "en": "The line between adventure and home.",
+      "de": "Die Grenze zwischen Abenteuer und Heim."
+    },
+    "sellValue": 150,
+    "buyValue": 300,
+    "isSellable": true
+  },
+  {
+    "id": "Item_CabinWindow01",
+    "prefabPath": "Resources/items/Item_CabinWindow01.prefab",
+    "category": "items",
+    "assetID": -411375347,
+    "name": {
+      "en": "Window",
+      "de": "Fenster"
+    },
+    "description": {
+      "en": "Ventilate daily.",
+      "de": "Täglich lüften."
+    },
+    "sellValue": 140,
+    "buyValue": 200,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Cable",
+    "prefabPath": "Resources/items/Item_Cable.prefab",
+    "category": "items",
+    "assetID": -2058586755,
+    "name": {
+      "en": "Cable",
+      "de": "Kabel"
+    },
+    "description": {
+      "en": "A cable ",
+      "de": "Ein Kabel"
+    },
+    "sellValue": 8,
+    "buyValue": 39,
+    "isSellable": true
+  },
+  {
+    "id": "Item_CampingBottle",
+    "prefabPath": "Resources/items/Item_CampingBottle.prefab",
+    "category": "items",
+    "assetID": 656326905,
+    "name": {
+      "en": "Camping Bottle",
+      "de": "Camping Trinkflasche"
+    },
+    "description": {
+      "en": "Unlimited hydration until it's empty.",
+      "de": "Unendliche Hydration bis sie leer ist."
+    },
+    "sellValue": 5,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_CampingChair",
+    "prefabPath": "Resources/items/Item_CampingChair.prefab",
+    "category": "items",
+    "assetID": 1732007779,
+    "name": {
+      "en": "Camping Chair",
+      "de": "Camping Stuhl"
+    },
+    "description": {
+      "en": "Who needs a solid seat anyways? ",
+      "de": "Wer braucht schon eine solide Sitzfläche?"
+    },
+    "sellValue": 12,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_CampingLamp",
+    "prefabPath": "Resources/items/Item_CampingLamp.prefab",
+    "category": "items",
+    "assetID": 1220025880,
+    "name": {
+      "en": "Camping Lamp",
+      "de": "Camping Leuchte"
+    },
+    "description": {
+      "en": "Bringing light to every bad decision outdoors.",
+      "de": "Erleuchtet jede Fehlentscheidung unter freiem Himmel."
+    },
+    "sellValue": 4,
+    "buyValue": 9,
+    "isSellable": true
+  },
+  {
+    "id": "Item_campingLampOff01",
+    "prefabPath": "Resources/items/Item_campingLampOff01.prefab",
+    "category": "items",
+    "assetID": -70216923,
+    "name": null,
+    "description": null,
+    "sellValue": null,
+    "buyValue": null,
+    "isSellable": null
+  },
+  {
+    "id": "Item_campingLampOn01",
+    "prefabPath": "Resources/items/Item_campingLampOn01.prefab",
+    "category": "items",
+    "assetID": 1413372529,
+    "name": null,
+    "description": null,
+    "sellValue": null,
+    "buyValue": null,
+    "isSellable": null
+  },
+  {
+    "id": "Item_Clamp",
+    "prefabPath": "Resources/items/Item_Clamp.prefab",
+    "category": "items",
+    "assetID": 2069032332,
+    "name": {
+      "en": "Clamp",
+      "de": "Eine Schraubzwinge!"
+    },
+    "description": {
+      "en": "A clamp! Used to hold thing tight",
+      "de": "Eine Schraubzwinge damit Dinge gehalten werden können"
+    },
+    "sellValue": 35,
+    "buyValue": 69,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Cork",
+    "prefabPath": "Resources/items/Item_Cork.prefab",
+    "category": "items",
+    "assetID": 533620777,
+    "name": {
+      "en": "Cork",
+      "de": "Korken"
+    },
+    "description": {
+      "en": "A cork, ideal for crafting",
+      "de": "Ein Korken - Ideal zum Basteln"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Doorbell",
+    "prefabPath": "Resources/items/Item_Doorbell.prefab",
+    "category": "items",
+    "assetID": 1977241027,
+    "name": {
+      "en": "Doorbell",
+      "de": "Türklingel"
+    },
+    "description": {
+      "en": "A dingelidong doorbell",
+      "de": "Eine DingdiDong Türklingel"
+    },
+    "sellValue": 25,
+    "buyValue": 60,
+    "isSellable": true
+  },
+  {
+    "id": "Item_EggGolden",
+    "prefabPath": "Resources/items/Item_EggGolden.prefab",
+    "category": "items",
+    "assetID": 873729925,
+    "name": {
+      "en": "Golden Egg",
+      "de": "Goldenes Ei"
+    },
+    "description": {
+      "en": "Golden protein! Ka-Ching!",
+      "de": "Goldene Proteine! Ka-Ching!"
+    },
+    "sellValue": 100,
+    "buyValue": 500,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ElectronicParts",
+    "prefabPath": "Resources/items/Item_ElectronicParts.prefab",
+    "category": "items",
+    "assetID": -530076875,
+    "name": {
+      "en": "Electronic Parts",
+      "de": "Elektronische Teile"
+    },
+    "description": {
+      "en": "1010011010",
+      "de": "1010011010"
+    },
+    "sellValue": 45,
+    "buyValue": 90,
+    "isSellable": true
+  },
+  {
+    "id": "Item_FireWood_Apple01",
+    "prefabPath": "Resources/items/Item_FireWood_Apple01.prefab",
+    "category": "items",
+    "assetID": 445820491,
+    "name": {
+      "en": "Firewood",
+      "de": "Feuerholz"
+    },
+    "description": {
+      "en": "Best friend of people who like to play with fire",
+      "de": "Der beste Freund von Menschen, die gerne mit dem Feuer spielen"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_FireWood_Birch01",
+    "prefabPath": "Resources/items/Item_FireWood_Birch01.prefab",
+    "category": "items",
+    "assetID": -585615753,
+    "name": {
+      "en": "Firewood",
+      "de": "Feuerholz"
+    },
+    "description": {
+      "en": "Best friend of people who like to play with fire",
+      "de": "Der beste Freund von Menschen, die gerne mit dem Feuer spielen"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_FireWood_Metal01",
+    "prefabPath": "Resources/items/Item_FireWood_Metal01.prefab",
+    "category": "items",
+    "assetID": -252103839,
+    "name": {
+      "en": "Firewood",
+      "de": "Feuerholz"
+    },
+    "description": {
+      "en": "Best friend of people who like to play with fire",
+      "de": "Der beste Freund von Menschen, die gerne mit dem Feuer spielen"
+    },
+    "sellValue": 4,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_FireWood_Walnut01",
+    "prefabPath": "Resources/items/Item_FireWood_Walnut01.prefab",
+    "category": "items",
+    "assetID": 720614948,
+    "name": {
+      "en": "Firewood",
+      "de": "Feuerholz"
+    },
+    "description": {
+      "en": "Best friend of people who like to play with fire",
+      "de": "Der beste Freund von Menschen, die gerne mit dem Feuer spielen"
+    },
+    "sellValue": 2,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_GoldenStraw",
+    "prefabPath": "Resources/items/Item_GoldenStraw.prefab",
+    "category": "items",
+    "assetID": -1677774049,
+    "name": {
+      "en": "Gold Platet Straw",
+      "de": "Vergoldeter Strohhalm"
+    },
+    "description": {
+      "en": "A gold platet straw. Makes you feel very important.",
+      "de": "Ein vergoldeter Strohhalm - Man fühlt sich sehr wichtig."
+    },
+    "sellValue": 200,
+    "buyValue": 1000,
+    "isSellable": true
+  },
+  {
+    "id": "Item_GrindStone_Wood",
+    "prefabPath": "Resources/items/Item_GrindStone_Wood.prefab",
+    "category": "items",
+    "assetID": 1725847889,
+    "name": {
+      "en": "Wooden Grindstone",
+      "de": "Holz-Schleifstein"
+    },
+    "description": {
+      "en": "A wooden grindstone",
+      "de": "Ein hölzerner Schleifstein"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_HamsterFence",
+    "prefabPath": "Resources/items/Item_HamsterFence.prefab",
+    "category": "items",
+    "assetID": -1204568425,
+    "name": {
+      "en": "Small Animal Fence",
+      "de": "Kleintierzaun"
+    },
+    "description": {
+      "en": "Keeps tiny explorers enclosed.",
+      "de": "Hält kleine Entdecker sicher eingegrenzt."
+    },
+    "sellValue": 5,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_HayBalePiece",
+    "prefabPath": "Resources/items/Item_HayBalePiece.prefab",
+    "category": "items",
+    "assetID": 2117578715,
+    "name": {
+      "en": "Camping Bottle",
+      "de": "Camping Trinkflasche"
+    },
+    "description": {
+      "en": "Unlimited hydration until it's empty.",
+      "de": "Unendliche Hydration bis sie leer ist."
+    },
+    "sellValue": 5,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_KeyToDungeon",
+    "prefabPath": "Resources/items/Item_KeyToDungeon.prefab",
+    "category": "items",
+    "assetID": 1798163877,
+    "name": {
+      "en": "Portal Key",
+      "de": "Portalschlüssel"
+    },
+    "description": {
+      "en": "A huge, old key. Opens the void portal.",
+      "de": "Ein riesiger, alter Schlüssel. Öffnet das Portal der Leere."
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Letter01",
+    "prefabPath": "Resources/items/Item_Letter01.prefab",
+    "category": "items",
+    "assetID": 1569461658,
+    "name": {
+      "en": "Letter",
+      "de": "Brief"
+    },
+    "description": {
+      "en": "A letter packed full of good news.",
+      "de": "Ein Brief randvoll mit guten Nachrichten."
+    },
+    "sellValue": 50,
+    "buyValue": 0,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MarshmallowBurnt",
+    "prefabPath": "Resources/items/Item_MarshmallowBurnt.prefab",
+    "category": "items",
+    "assetID": -1940504796,
+    "name": {
+      "en": "Burnt Marshmallow",
+      "de": "Verbrannter Marshmallow"
+    },
+    "description": {
+      "en": "Tastes like a loss.",
+      "de": "Schmeckt nach Verlieren."
+    },
+    "sellValue": 1,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MarshmallowNormal",
+    "prefabPath": "Resources/items/Item_MarshmallowNormal.prefab",
+    "category": "items",
+    "assetID": 2106414615,
+    "name": {
+      "en": "Marshmallow",
+      "de": "Marshmallow"
+    },
+    "description": {
+      "en": "Fluffy and soft.",
+      "de": "Luftig und weich."
+    },
+    "sellValue": 1,
+    "buyValue": 6,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MarshmallowPerfect",
+    "prefabPath": "Resources/items/Item_MarshmallowPerfect.prefab",
+    "category": "items",
+    "assetID": 938355598,
+    "name": {
+      "en": "Perfectly Roasted Marshmallow",
+      "de": "Perfekt gerösteter Marshmallow"
+    },
+    "description": {
+      "en": "Cooked to perfection, if one would name this cooking.",
+      "de": "Perfekt auf den Punkt gebracht."
+    },
+    "sellValue": 5,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Medicine",
+    "prefabPath": "Resources/items/Item_Medicine.prefab",
+    "category": "items",
+    "assetID": -811946331,
+    "name": null,
+    "description": null,
+    "sellValue": 1,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Money",
+    "prefabPath": "Resources/items/Item_Money.prefab",
+    "category": "items",
+    "assetID": -1397753173,
+    "name": {
+      "en": "Money",
+      "de": "Geld"
+    },
+    "description": {
+      "en": "Cash, Bling Bling, Dough. You name it.",
+      "de": "Moneten, Kröten, Penunze, Kies, Schotter, Kohle"
+    },
+    "sellValue": 1,
+    "buyValue": 1,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PackageOfGlass01",
+    "prefabPath": "Resources/items/Item_PackageOfGlass01.prefab",
+    "category": "items",
+    "assetID": 1331658425,
+    "name": {
+      "en": "Package of Glass",
+      "de": "Universal Glasscheibenpaket"
+    },
+    "description": {
+      "en": "Who is looking in and who is looking out?",
+      "de": "Wer guckt rein und wer guckt raus?"
+    },
+    "sellValue": 35,
+    "buyValue": 70,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PackageOfRoofTiles01",
+    "prefabPath": "Resources/items/Item_PackageOfRoofTiles01.prefab",
+    "category": "items",
+    "assetID": -820309185,
+    "name": {
+      "en": "Package of Roof Tiles",
+      "de": "Ziegelpaket"
+    },
+    "description": {
+      "en": "Ready to protect homes.",
+      "de": "Bereit um Häuser zu beschützen."
+    },
+    "sellValue": 65,
+    "buyValue": 129,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PaintBucket",
+    "prefabPath": "Resources/items/Item_PaintBucket.prefab",
+    "category": "items",
+    "assetID": 1854614582,
+    "name": {
+      "en": "Paint Bucket",
+      "de": "Farbeimer"
+    },
+    "description": {
+      "en": "Make your life more colorful, one drip at a time.",
+      "de": "Mach dein Leben bunter Tropfen für Tropfen."
+    },
+    "sellValue": 15,
+    "buyValue": 29,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PartyHose",
+    "prefabPath": "Resources/items/Item_PartyHose.prefab",
+    "category": "items",
+    "assetID": 658696516,
+    "name": {
+      "en": "Partyhose",
+      "de": "Partyschlauch"
+    },
+    "description": {
+      "en": "Get drunk in no time.",
+      "de": "Ein Partyschlauch - Der schnellste Weg sich die Lichter aus zu schalten."
+    },
+    "sellValue": 35,
+    "buyValue": 69,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PieceOfShit",
+    "prefabPath": "Resources/items/Item_PieceOfShit.prefab",
+    "category": "items",
+    "assetID": -359169224,
+    "name": {
+      "en": "The Great Mighty Poo",
+      "de": "The Great Mighty Poo"
+    },
+    "description": {
+      "en": "Still smelly, but did forget to sing.",
+      "de": "Stinkt immernoch, hat aber vergessen zu singen."
+    },
+    "sellValue": 39,
+    "buyValue": 69,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PileOfNails",
+    "prefabPath": "Resources/items/Item_PileOfNails.prefab",
+    "category": "items",
+    "assetID": 374858114,
+    "name": {
+      "en": "Pile of Nails",
+      "de": "Nägelhäufchen"
+    },
+    "description": {
+      "en": "Some nails for crafting ... or throwing in front of car tires!",
+      "de": "Ein paar Nägelhäufchen für die Herstellung"
+    },
+    "sellValue": 4,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PillowBroken",
+    "prefabPath": "Resources/items/Item_PillowBroken.prefab",
+    "category": "items",
+    "assetID": 457250500,
+    "name": {
+      "en": "Wornout Pillow",
+      "de": "Abgenutztes Kissen"
+    },
+    "description": {
+      "en": "A very wornout pillow",
+      "de": "Ein sehr abgenutztes Kissen"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_ScooterHelmet",
+    "prefabPath": "Resources/items/Item_ScooterHelmet.prefab",
+    "category": "items",
+    "assetID": -437856296,
+    "name": {
+      "en": "Scooter Helmet",
+      "de": "Roller Helm"
+    },
+    "description": {
+      "en": "Wearable life insurance.",
+      "de": "Eine tragbare Lebensversicherung."
+    },
+    "sellValue": 30,
+    "buyValue": 40,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ScotchGlas",
+    "prefabPath": "Resources/items/Item_ScotchGlas.prefab",
+    "category": "items",
+    "assetID": -41646836,
+    "name": {
+      "en": "Tumbler",
+      "de": "Tumbler"
+    },
+    "description": {
+      "en": "An old stylish glas for the hard stuff.",
+      "de": "Ein altes stylisches Glas für das harte Zeug."
+    },
+    "sellValue": 30,
+    "buyValue": 109,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ScotchIronStag",
+    "prefabPath": "Resources/items/Item_ScotchIronStag.prefab",
+    "category": "items",
+    "assetID": 600270922,
+    "name": {
+      "en": "Iron Stag Apple Tea",
+      "de": "Iron Stag Apfel Tee"
+    },
+    "description": {
+      "en": "A bottle of fine Iron Stag tea.",
+      "de": "Eine edele Flasche Iron Stag Tee."
+    },
+    "sellValue": 115,
+    "buyValue": 229,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ScrewPack01",
+    "prefabPath": "Resources/items/Item_ScrewPack01.prefab",
+    "category": "items",
+    "assetID": 819343075,
+    "name": {
+      "en": "Pile of Screws",
+      "de": "Paket Schrauben"
+    },
+    "description": {
+      "en": "A pile of screws",
+      "de": "Ein Paket Schrauben"
+    },
+    "sellValue": 8,
+    "buyValue": 16,
+    "isSellable": true
+  },
+  {
+    "id": "Item_SirWorcestershire",
+    "prefabPath": "Resources/items/Item_SirWorcestershire.prefab",
+    "category": "items",
+    "assetID": 106836953,
+    "name": {
+      "en": "Sir Worcestershire III.",
+      "de": "Sir Worcestershire III."
+    },
+    "description": {
+      "en": "A noble fish with bad habits.",
+      "de": "Ein adeliger Fisch mit schlechten Angewohnheiten."
+    },
+    "sellValue": 1,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Sticks01",
+    "prefabPath": "Resources/items/Item_Sticks01.prefab",
+    "category": "items",
+    "assetID": -617059833,
+    "name": {
+      "en": "Sticks",
+      "de": "Stöcke"
+    },
+    "description": {
+      "en": "A few sticks, maybe useful for roasting something over the fire",
+      "de": "Ein paar Stöcke, vielleicht nützlich um etwas über dem Feuer zu rösten"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Straw",
+    "prefabPath": "Resources/items/Item_Straw.prefab",
+    "category": "items",
+    "assetID": 421825172,
+    "name": {
+      "en": "Plastic Straw",
+      "de": "Plastik Strohhalm"
+    },
+    "description": {
+      "en": "One of the last plastic straws on the market.",
+      "de": "Einer der letzten Strohhalme aus Plastik."
+    },
+    "sellValue": 45,
+    "buyValue": 89,
+    "isSellable": true
+  },
+  {
+    "id": "Item_TentFolded",
+    "prefabPath": "Resources/items/Item_TentFolded.prefab",
+    "category": "items",
+    "assetID": -606481584,
+    "name": {
+      "en": "Camping Tent",
+      "de": "Camping Zelt"
+    },
+    "description": {
+      "en": "A portable home for damp adventures.",
+      "de": "Ein mobiles Zuhause für nasse Abenteuer."
+    },
+    "sellValue": 25,
+    "buyValue": 49,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Toiletpaper",
+    "prefabPath": "Resources/items/Item_Toiletpaper.prefab",
+    "category": "items",
+    "assetID": -1945780969,
+    "name": {
+      "en": "Toiletpaper",
+      "de": "Toilettenpapier"
+    },
+    "description": {
+      "en": "A piece of super soft and fluffy toiletpaper",
+      "de": "Ein Blatt super weichesToilettenpapier"
+    },
+    "sellValue": 9,
+    "buyValue": 99,
+    "isSellable": true
+  },
+  {
+    "id": "Item_TutorialCoffee",
+    "prefabPath": "Resources/items/Item_TutorialCoffee.prefab",
+    "category": "items",
+    "assetID": -389971431,
+    "name": {
+      "en": "Coffee",
+      "de": "Kaffee"
+    },
+    "description": {
+      "en": "Dark magic in a cup.",
+      "de": "Dunkle Magie im Becher."
+    },
+    "sellValue": 1,
+    "buyValue": 10,
+    "isSellable": false
+  },
+  {
+    "id": "Item_TutorialFiles",
+    "prefabPath": "Resources/items/Item_TutorialFiles.prefab",
+    "category": "items",
+    "assetID": 647484641,
+    "name": {
+      "en": "Files",
+      "de": "Dokumente"
+    },
+    "description": {
+      "en": "A lot of invoices ",
+      "de": "Viele Rechnungen"
+    },
+    "sellValue": 1,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_VeryComfortablePillow",
+    "prefabPath": "Resources/items/Item_VeryComfortablePillow.prefab",
+    "category": "items",
+    "assetID": -1353342624,
+    "name": {
+      "en": "Very comfortable Pillow",
+      "de": "Ultra bequemes Kissen"
+    },
+    "description": {
+      "en": "The most comfortable pillow you ever had",
+      "de": "Das bequemste Kissen was du je hattest"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_VestaScooter",
+    "prefabPath": "Resources/items/Item_VestaScooter.prefab",
+    "category": "items",
+    "assetID": 1319553721,
+    "name": {
+      "en": "Scooter",
+      "de": "Roller"
+    },
+    "description": {
+      "en": "Delivers charm, not horsepower.",
+      "de": "Charme, statt Pferdestärken."
+    },
+    "sellValue": 499,
+    "buyValue": 1099,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ViseWorkbench",
+    "prefabPath": "Resources/items/Item_ViseWorkbench.prefab",
+    "category": "items",
+    "assetID": 401042254,
+    "name": {
+      "en": "Vise",
+      "de": "Schraubstock"
+    },
+    "description": {
+      "en": "A Vise to mount on a Workbench",
+      "de": "Ein Schraubstock der an einer Werkbank montiert werden kann"
+    },
+    "sellValue": 100,
+    "buyValue": 200,
+    "isSellable": true
+  },
+  {
+    "id": "Item_WaterBucket",
+    "prefabPath": "Resources/items/Item_WaterBucket.prefab",
+    "category": "items",
+    "assetID": -404148826,
+    "name": {
+      "en": "Water Bucket",
+      "de": "Wassereimer"
+    },
+    "description": {
+      "en": "A container designed to betray you at the slightest tilt.",
+      "de": "Ein Gefäß, das jede ungeplante Bewegung bestraft."
+    },
+    "sellValue": 8,
+    "buyValue": 39,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Windmill01",
+    "prefabPath": "Resources/items/Item_Windmill01.prefab",
+    "category": "items",
+    "assetID": 1794137787,
+    "name": null,
+    "description": null,
+    "sellValue": 1,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillAssembledCheck",
+    "prefabPath": "Resources/items/Item_WindmillAssembledCheck.prefab",
+    "category": "items",
+    "assetID": 1635353572,
+    "name": {
+      "en": "Broken Windmill Wing 1",
+      "de": "Zerstörter Windmühlenflügel 01"
+    },
+    "description": {
+      "en": "Once a proud spinner, now a proud splinter.",
+      "de": "Vom Wirbelwind zum Holzsplitterkind."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillBrokenWing01",
+    "prefabPath": "Resources/items/Item_WindmillBrokenWing01.prefab",
+    "category": "items",
+    "assetID": 889926328,
+    "name": {
+      "en": "Broken Windmill Wing 3",
+      "de": "Zerstörter Windmühlenflügel 03"
+    },
+    "description": {
+      "en": "Looks functional if you squint hard enough.",
+      "de": "Sieht funktional aus, wenn man die Augen stark genug zusammenkneift."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillBrokenWing02",
+    "prefabPath": "Resources/items/Item_WindmillBrokenWing02.prefab",
+    "category": "items",
+    "assetID": -56868222,
+    "name": {
+      "en": "Broken Windmill Wing 2",
+      "de": "Zerstörter Windmühlenflügel 02"
+    },
+    "description": {
+      "en": "Shattered dreams in aerodynamic form.",
+      "de": "Zerplatzte Träume in aerodynamischer Form."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillBrokenWing03",
+    "prefabPath": "Resources/items/Item_WindmillBrokenWing03.prefab",
+    "category": "items",
+    "assetID": 1571613156,
+    "name": {
+      "en": "Broken Windmill Wing 3",
+      "de": "Zerstörter Windmühlenflügel 03"
+    },
+    "description": {
+      "en": "Looks functional if you squint hard enough.",
+      "de": "Sieht funktional aus, wenn man die Augen stark genug zusammenkneift."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillBrokenWing04",
+    "prefabPath": "Resources/items/Item_WindmillBrokenWing04.prefab",
+    "category": "items",
+    "assetID": -799989409,
+    "name": {
+      "en": "Broken Windmill Wing 3",
+      "de": "Zerstörter Windmühlenflügel 03"
+    },
+    "description": {
+      "en": "Looks functional if you squint hard enough.",
+      "de": "Sieht funktional aus, wenn man die Augen stark genug zusammenkneift."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillWingsRepaired01",
+    "prefabPath": "Resources/items/Item_WindmillWingsRepaired01.prefab",
+    "category": "items",
+    "assetID": 366325213,
+    "name": {
+      "en": "Windmill Wing 1",
+      "de": "Windmühlenflügel 01"
+    },
+    "description": {
+      "en": "Once a sad splinter, now a proud spinner.",
+      "de": "Einst ein trauriger Splitter, jetzt ein stolzer Flügel."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillWingsRepaired02",
+    "prefabPath": "Resources/items/Item_WindmillWingsRepaired02.prefab",
+    "category": "items",
+    "assetID": -2020411604,
+    "name": {
+      "en": "Windmill Wing 2",
+      "de": "Windmühlenflügel 02"
+    },
+    "description": {
+      "en": "Repaired shattered dreams in aerodynamic form.",
+      "de": "Zusammengeflickte Träume mit Flügelprofil."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillWingsRepaired03",
+    "prefabPath": "Resources/items/Item_WindmillWingsRepaired03.prefab",
+    "category": "items",
+    "assetID": -1189878096,
+    "name": {
+      "en": "Windmill Wing 3",
+      "de": "Windmühlenflügel 03"
+    },
+    "description": {
+      "en": "Now spins... mostly in the right direction.",
+      "de": "Dreht sich... meistenst in die richtige Richtung."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WindmillWingsRepaired04",
+    "prefabPath": "Resources/items/Item_WindmillWingsRepaired04.prefab",
+    "category": "items",
+    "assetID": -1044378375,
+    "name": {
+      "en": "Windmill Wing 4",
+      "de": "Windmühlenflügel 04"
+    },
+    "description": {
+      "en": "Fixed enough to confuse the wind.",
+      "de": "Genug repariert, um den Wind zu verwirren."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WoodenShoesAnimated",
+    "prefabPath": "Resources/items/Item_WoodenShoesAnimated.prefab",
+    "category": "items",
+    "assetID": 1578562068,
+    "name": {
+      "en": "Wooden Shoes",
+      "de": "Holzschuhe"
+    },
+    "description": {
+      "en": "The one true sneaker!",
+      "de": "Der einzig wahre Sneaker!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_WoodenShoesHeatResistant",
+    "prefabPath": "Resources/items/Item_WoodenShoesHeatResistant.prefab",
+    "category": "items",
+    "assetID": 1299061417,
+    "name": {
+      "en": "Heat Resistant Wooden Shoes",
+      "de": "Hitzebeständige Holzschuhe"
+    },
+    "description": {
+      "en": "The one true sneaker!",
+      "de": "Der einzig wahre Sneaker!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Animal_Hamster01",
+    "prefabPath": "Resources/items/animals/Item_Animal_Hamster01.prefab",
+    "category": "animals",
+    "assetID": -289530651,
+    "name": {
+      "en": "Hamster",
+      "de": "Hamster"
+    },
+    "description": {
+      "en": "Small body, industrial-grade energy output.",
+      "de": "Kleiner Körper, Energiequelle in Industriequalität."
+    },
+    "sellValue": 30,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Axe_Crystal",
+    "prefabPath": "Resources/items/axes/Item_Axe_Crystal.prefab",
+    "category": "axes",
+    "assetID": 1995122607,
+    "name": {
+      "en": "Metal Axe",
+      "de": "Metall Axt"
+    },
+    "description": {
+      "en": "For when subtlety just isn’t an option.",
+      "de": "Wenn Zurückhaltung keine Option ist."
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Lucille",
+    "prefabPath": "Resources/items/axes/Item_Axe_Lucille.prefab",
+    "category": "axes",
+    "assetID": 2009790915,
+    "name": {
+      "en": "Lucille 2.0",
+      "de": "Lucille 2.0"
+    },
+    "description": {
+      "en": "A premium wooden whacker, perfect for turning fruit into jam the fast way.",
+      "de": "Ein Premium-Holzklopper, perfekt um Obst im Schnellverfahren zu Marmelade zu machen."
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Metal",
+    "prefabPath": "Resources/items/axes/Item_Axe_Metal.prefab",
+    "category": "axes",
+    "assetID": 1185295141,
+    "name": {
+      "en": "Metal Axe",
+      "de": "Metall Axt"
+    },
+    "description": {
+      "en": "For when subtlety just isn’t an option.",
+      "de": "Wenn Zurückhaltung keine Option ist."
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Metal_Tier2",
+    "prefabPath": "Resources/items/axes/Item_Axe_Metal_Tier2.prefab",
+    "category": "axes",
+    "assetID": -901606502,
+    "name": {
+      "en": "Metal Axe Mk2",
+      "de": "Metall Axt Mk2"
+    },
+    "description": {
+      "en": "A Metal Axe Mk2",
+      "de": "Eine Metall Axt Mk2"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Metal_Tier3",
+    "prefabPath": "Resources/items/axes/Item_Axe_Metal_Tier3.prefab",
+    "category": "axes",
+    "assetID": 1651783194,
+    "name": {
+      "en": "Metal Axe Mk3",
+      "de": "Metall Axt Mk3"
+    },
+    "description": {
+      "en": "A Metal Axe Mk3",
+      "de": "Eine Metall Axt Mk3"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Metal_Tier4",
+    "prefabPath": "Resources/items/axes/Item_Axe_Metal_Tier4.prefab",
+    "category": "axes",
+    "assetID": -296800848,
+    "name": {
+      "en": "Metal Axe Mk4",
+      "de": "Metall Axt Mk4"
+    },
+    "description": {
+      "en": "A Metal Axe Mk4",
+      "de": "Eine Metall Axt Mk4"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Stamp",
+    "prefabPath": "Resources/items/axes/Item_Axe_Stamp.prefab",
+    "category": "axes",
+    "assetID": 705645671,
+    "name": {
+      "en": "Furnox Corp. Stamp",
+      "de": "Furnox Corp. Stempel"
+    },
+    "description": {
+      "en": "The chosen weapon of the office knight",
+      "de": "Die Waffe des Büro-Ritters"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Stone",
+    "prefabPath": "Resources/items/axes/Item_Axe_Stone.prefab",
+    "category": "axes",
+    "assetID": 33215566,
+    "name": {
+      "en": "Stone Axe",
+      "de": "Steinaxt"
+    },
+    "description": {
+      "en": "Prehistoric performance, timeless design.",
+      "de": "Prähistorische Performance, zeitloses Design."
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Stone_Tier2",
+    "prefabPath": "Resources/items/axes/Item_Axe_Stone_Tier2.prefab",
+    "category": "axes",
+    "assetID": -1458996777,
+    "name": {
+      "en": "Stone Axe Mk2",
+      "de": "Steinaxt Mk2"
+    },
+    "description": {
+      "en": "Even better for chopping things and killing stuff!",
+      "de": "Noch besser zum Hacken und Töten!"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Stone_Tier3",
+    "prefabPath": "Resources/items/axes/Item_Axe_Stone_Tier3.prefab",
+    "category": "axes",
+    "assetID": -108248312,
+    "name": {
+      "en": "Stone Axe Mk3",
+      "de": "Steinaxt Mk3"
+    },
+    "description": {
+      "en": "Even better for chopping things and killing stuff!",
+      "de": "Noch besser zum Hacken und Töten!"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Stone_Tier4",
+    "prefabPath": "Resources/items/axes/Item_Axe_Stone_Tier4.prefab",
+    "category": "axes",
+    "assetID": -36699974,
+    "name": {
+      "en": "Stone Axe Mk4",
+      "de": "Steinaxt Mk4"
+    },
+    "description": {
+      "en": "Even better for chopping things and killing stuff!",
+      "de": "Noch besser zum Hacken und Töten!"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Wood",
+    "prefabPath": "Resources/items/axes/Item_Axe_Wood.prefab",
+    "category": "axes",
+    "assetID": -685859587,
+    "name": {
+      "en": "Wooden Axe",
+      "de": "Holzaxt"
+    },
+    "description": {
+      "en": "Chops trees... with mixed feelings.",
+      "de": "Fällt Bäume, mit gemischten Gefühlen."
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_WoodenSword",
+    "prefabPath": "Resources/items/axes/Item_Axe_WoodenSword.prefab",
+    "category": "axes",
+    "assetID": -1393253354,
+    "name": {
+      "en": "Wooden Sword",
+      "de": "Holzschwert"
+    },
+    "description": {
+      "en": "Hero tested, parental approved.",
+      "de": "Von Helden getestet und Eltern erlaubt."
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Wood_Tier2",
+    "prefabPath": "Resources/items/axes/Item_Axe_Wood_Tier2.prefab",
+    "category": "axes",
+    "assetID": -933801296,
+    "name": {
+      "en": "Wooden Axe Mk2",
+      "de": "Wooden Axe Mk2"
+    },
+    "description": {
+      "en": "Good for chopping things and killing stuff!",
+      "de": "Gut zum Hacken und Töten!"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Wood_Tier3",
+    "prefabPath": "Resources/items/axes/Item_Axe_Wood_Tier3.prefab",
+    "category": "axes",
+    "assetID": 181576774,
+    "name": {
+      "en": "Wooden Axe Mk3",
+      "de": "Wooden Axe Mk3"
+    },
+    "description": {
+      "en": "Good for chopping things and killing stuff!",
+      "de": "Gut zum Hacken und Töten!"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Axe_Wood_Tier4",
+    "prefabPath": "Resources/items/axes/Item_Axe_Wood_Tier4.prefab",
+    "category": "axes",
+    "assetID": -273275105,
+    "name": {
+      "en": "Wooden Axe Mk4",
+      "de": "Wooden Axe Mk4"
+    },
+    "description": {
+      "en": "Good for chopping things and killing stuff!",
+      "de": "Gut zum Hacken und Töten!"
+    },
+    "sellValue": 0,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Apple",
+    "prefabPath": "Resources/items/food/Item_Apple.prefab",
+    "category": "food",
+    "assetID": 472458998,
+    "name": {
+      "en": "Apple",
+      "de": "Apfel"
+    },
+    "description": {
+      "en": "High tech health item for your teeth",
+      "de": "Hightech-Gesundheitsprodukt für deine Zähne"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Burger",
+    "prefabPath": "Resources/items/food/Item_Burger.prefab",
+    "category": "food",
+    "assetID": 1924402142,
+    "name": {
+      "en": "Cheeseburger",
+      "de": "Cheeseburger"
+    },
+    "description": {
+      "en": "A masterpiece of meat and cheese. Ready to disappear.",
+      "de": "Ein Meisterwerk aus Fleisch und Käse. Bereit zu verschwinden."
+    },
+    "sellValue": 1,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ChickenLegGrilled",
+    "prefabPath": "Resources/items/food/Item_ChickenLegGrilled.prefab",
+    "category": "food",
+    "assetID": 698131790,
+    "name": {
+      "en": "Grilled Chicken Leg",
+      "de": "Gegrillte Hühnerkeule"
+    },
+    "description": {
+      "en": "A grilled chicken leg of a feathered animal",
+      "de": "Eine gegrillte Hühnerkeule eines Federviehs"
+    },
+    "sellValue": 3,
+    "buyValue": 9,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ChickenLegGrilledBitten",
+    "prefabPath": "Resources/items/food/Item_ChickenLegGrilledBitten.prefab",
+    "category": "food",
+    "assetID": 462830133,
+    "name": {
+      "en": "Raw Chicken Leg",
+      "de": "Rohes Hühnerbein"
+    },
+    "description": {
+      "en": "A raw chicken leg. It already smells a bit",
+      "de": "Ein rohes Hühnerbein, es riecht bereits"
+    },
+    "sellValue": 1,
+    "buyValue": 1,
+    "isSellable": false
+  },
+  {
+    "id": "Item_ChickenLegRaw",
+    "prefabPath": "Resources/items/food/Item_ChickenLegRaw.prefab",
+    "category": "food",
+    "assetID": -875799430,
+    "name": {
+      "en": "Raw Chicken Leg",
+      "de": "Rohes Hühnerbein"
+    },
+    "description": {
+      "en": "A raw chicken leg. It already smells a bit",
+      "de": "Ein rohes Hühnerbein, es riecht bereits"
+    },
+    "sellValue": 1,
+    "buyValue": 3,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ChocolateCream",
+    "prefabPath": "Resources/items/food/Item_ChocolateCream.prefab",
+    "category": "food",
+    "assetID": -1369158848,
+    "name": {
+      "en": "Chocolate Cream",
+      "de": "Schokoladen Creme"
+    },
+    "description": {
+      "en": "Very creamy... delicious",
+      "de": "Sehr Cremig... lecker ! "
+    },
+    "sellValue": 1,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Coconut01",
+    "prefabPath": "Resources/items/food/Item_Coconut01.prefab",
+    "category": "food",
+    "assetID": -1698256041,
+    "name": {
+      "en": "Coconut",
+      "de": "Kokosnuss"
+    },
+    "description": {
+      "en": "A Coconut Half",
+      "de": "Eine Kokosnusshälfte"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Coconut02",
+    "prefabPath": "Resources/items/food/Item_Coconut02.prefab",
+    "category": "food",
+    "assetID": 1335316157,
+    "name": {
+      "en": "Coconut",
+      "de": "Kokosnuss"
+    },
+    "description": {
+      "en": "A Coconut Half",
+      "de": "Eine Kokosnusshälfte"
+    },
+    "sellValue": 12,
+    "buyValue": 49,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Coffee",
+    "prefabPath": "Resources/items/food/Item_Coffee.prefab",
+    "category": "food",
+    "assetID": -569914372,
+    "name": {
+      "en": "Coffee",
+      "de": "Kaffee"
+    },
+    "description": {
+      "en": "Dark magic in a cup.",
+      "de": "Dunkle Magie im Becher."
+    },
+    "sellValue": 1,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Croissant",
+    "prefabPath": "Resources/items/food/Item_Croissant.prefab",
+    "category": "food",
+    "assetID": 1828766693,
+    "name": {
+      "en": "Croissant",
+      "de": "Croissant"
+    },
+    "description": {
+      "en": "Born in France to flake across the world.",
+      "de": "In Frankreich geboren, um auf der ganzen Welt zu bröseln."
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Donut",
+    "prefabPath": "Resources/items/food/Item_Donut.prefab",
+    "category": "food",
+    "assetID": 1532041030,
+    "name": {
+      "en": "Donut",
+      "de": "Donut"
+    },
+    "description": {
+      "en": "An emotional rescue ring made of dough.",
+      "de": "Ein emotionaler Rettungsring aus Teig."
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Egg",
+    "prefabPath": "Resources/items/food/Item_Egg.prefab",
+    "category": "food",
+    "assetID": -44842821,
+    "name": {
+      "en": "Egg",
+      "de": "Ei"
+    },
+    "description": {
+      "en": "Mmh, protein",
+      "de": "Mmh, Protein!"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Honey",
+    "prefabPath": "Resources/items/food/Item_Honey.prefab",
+    "category": "food",
+    "assetID": 1968980533,
+    "name": {
+      "en": "Honey",
+      "de": "Honig"
+    },
+    "description": {
+      "en": "Sugar rush!",
+      "de": "Zuckershock!"
+    },
+    "sellValue": 5,
+    "buyValue": 15,
+    "isSellable": false
+  },
+  {
+    "id": "Item_HoneyJar01",
+    "prefabPath": "Resources/items/food/Item_HoneyJar01.prefab",
+    "category": "food",
+    "assetID": 855980077,
+    "name": {
+      "en": "Jar of honey",
+      "de": "Honig Glas"
+    },
+    "description": {
+      "en": "A jar of honey, the sweet nectar of happy bees",
+      "de": "Ein Glas Honig, der süße Nektar glücklicher Bienen"
+    },
+    "sellValue": 50,
+    "buyValue": 200,
+    "isSellable": true
+  },
+  {
+    "id": "Item_HotDog",
+    "prefabPath": "Resources/items/food/Item_HotDog.prefab",
+    "category": "food",
+    "assetID": -829867004,
+    "name": {
+      "en": "Hot Dog",
+      "de": "Hot Dog"
+    },
+    "description": {
+      "en": "The dachshund of the sausage world.",
+      "de": "Der Dackel unter den Würsten."
+    },
+    "sellValue": 1,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MarshmallowBag",
+    "prefabPath": "Resources/items/food/Item_MarshmallowBag.prefab",
+    "category": "food",
+    "assetID": -137441278,
+    "name": {
+      "en": "Marshmallow Bag",
+      "de": "Marshmallows Tüte"
+    },
+    "description": {
+      "en": "A bag with nutritious <i>wink</i>, small sugar pillows.",
+      "de": "Eine Tüte mit nahrhaften <b><i>Zwinker</i></b>, kleinen Zucker-Kissen."
+    },
+    "sellValue": 3,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead01",
+    "prefabPath": "Resources/items/food/Item_MushroomHead01.prefab",
+    "category": "food",
+    "assetID": 1746768234,
+    "name": {
+      "en": "Glowing Mushroom",
+      "de": "Leuchtender Pilz"
+    },
+    "description": {
+      "en": "A squishy glowing shroom that squeaks when you rub it",
+      "de": "Ein leuchtender, matschiger Pilz, der quietscht, wenn man ihn reibt"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead02",
+    "prefabPath": "Resources/items/food/Item_MushroomHead02.prefab",
+    "category": "food",
+    "assetID": -2078723751,
+    "name": {
+      "en": "Spiky Mushroom",
+      "de": "Stacheliger Pilz"
+    },
+    "description": {
+      "en": "Uncooked, it’s your last snack",
+      "de": "Ungekocht, dein letzter Snack"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead03",
+    "prefabPath": "Resources/items/food/Item_MushroomHead03.prefab",
+    "category": "food",
+    "assetID": -708737173,
+    "name": {
+      "en": "Big Head Mushroom",
+      "de": "Großkopf Pilz"
+    },
+    "description": {
+      "en": "A Mushroom with a huge Head, tastes kinda sweet",
+      "de": "Ein Pilz mit einem riesen Kopf, schmeckt leicht süßlich"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead04",
+    "prefabPath": "Resources/items/food/Item_MushroomHead04.prefab",
+    "category": "food",
+    "assetID": -1933515781,
+    "name": {
+      "en": "Shriveled Mushroom",
+      "de": "schrumpeliger Pilz"
+    },
+    "description": {
+      "en": "Small shriveled Mushroom, tastes bitter when uncooked",
+      "de": "Kleiner schrumpeliger Pilz, schmeckt bitter , wenn ungekocht"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead05",
+    "prefabPath": "Resources/items/food/Item_MushroomHead05.prefab",
+    "category": "food",
+    "assetID": -72605599,
+    "name": {
+      "en": "Mushroom",
+      "de": "Pilz"
+    },
+    "description": {
+      "en": "A mushroom that does not like this game",
+      "de": "Ein Pilz, der dieses Spiel nicht mag"
+    },
+    "sellValue": 2,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Oil",
+    "prefabPath": "Resources/items/food/Item_Oil.prefab",
+    "category": "food",
+    "assetID": 726098678,
+    "name": {
+      "en": "Apple",
+      "de": "Apfel"
+    },
+    "description": {
+      "en": "High tech health item for your teeth",
+      "de": "Hightech-Gesundheitsprodukt für deine Zähne"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Pickle",
+    "prefabPath": "Resources/items/food/Item_Pickle.prefab",
+    "category": "food",
+    "assetID": -690427651,
+    "name": {
+      "en": "Pickle",
+      "de": "Saure Gurke"
+    },
+    "description": {
+      "en": "Rick, is that you?",
+      "de": "Rick, bist du es?"
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PicklesChocolate",
+    "prefabPath": "Resources/items/food/Item_PicklesChocolate.prefab",
+    "category": "food",
+    "assetID": -1939853321,
+    "name": {
+      "en": "Pickles Chocolate Mix",
+      "de": "Gurken Schokoladen Mixtur"
+    },
+    "description": {
+      "en": "A delicious Pickles Chcolate Mix",
+      "de": "Eine köstliche Gurken Schokoladen Mixtur"
+    },
+    "sellValue": 1,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PicklesGlas",
+    "prefabPath": "Resources/items/food/Item_PicklesGlas.prefab",
+    "category": "food",
+    "assetID": 1495037538,
+    "name": {
+      "en": "Pickled Cucumbers",
+      "de": "Saure Gurken"
+    },
+    "description": {
+      "en": "Rick, are you in there somewhere?",
+      "de": "Rick, bist du da irgendwo drin?"
+    },
+    "sellValue": 1,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Pizza",
+    "prefabPath": "Resources/items/food/Item_Pizza.prefab",
+    "category": "food",
+    "assetID": 1325955121,
+    "name": {
+      "en": "Pizza ",
+      "de": "Pizza"
+    },
+    "description": {
+      "en": "A delicious way to learn geometry.",
+      "de": "Eine köstliche Art, Geometrie zu lernen."
+    },
+    "sellValue": 1,
+    "buyValue": 15,
+    "isSellable": true
+  },
+  {
+    "id": "Item_PortalCake",
+    "prefabPath": "Resources/items/food/Item_PortalCake.prefab",
+    "category": "food",
+    "assetID": -1217501134,
+    "name": {
+      "en": "Cake",
+      "de": "Kuchen"
+    },
+    "description": {
+      "en": "The cake is a lie.",
+      "de": "The cake is a lie."
+    },
+    "sellValue": 1,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_ProteinShake",
+    "prefabPath": "Resources/items/food/Item_ProteinShake.prefab",
+    "category": "food",
+    "assetID": -1709124896,
+    "name": {
+      "en": "Protein Shake",
+      "de": "Protein Shake"
+    },
+    "description": {
+      "en": "Tastes like chocolate… allegedly. Builds unquestionable gains. Side effects: accidental flexing.",
+      "de": "Schmeckt angeblich nach Schokolade. Baut zweifelsfreie Gains auf. Nebenwirkungen: unbeabsichtigtes Flexen."
+    },
+    "sellValue": 1,
+    "buyValue": 999,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Furniture_Candy_CandyDispenser01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Candy_CandyDispenser01.prefab",
+    "category": "furniture",
+    "assetID": -1958008079,
+    "name": {
+      "en": "Candy Dispenser",
+      "de": "Süßigkeitenspender"
+    },
+    "description": {
+      "en": "Manual happiness dispenser.",
+      "de": "Manueller Glücksspender."
+    },
+    "sellValue": 4,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_Bird",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_Bird.prefab",
+    "category": "furniture",
+    "assetID": 810256312,
+    "name": {
+      "en": "Carved Bird",
+      "de": "Geschnitzer Vogel"
+    },
+    "description": {
+      "en": "A carved bird",
+      "de": "Ein geschnitzer Vogel"
+    },
+    "sellValue": 16,
+    "buyValue": 32,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_Chess_BlackKing01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_Chess_BlackKing01.prefab",
+    "category": "furniture",
+    "assetID": 796039531,
+    "name": {
+      "en": "Black King Chess Figure",
+      "de": "Schwarzer König Schachfigur"
+    },
+    "description": {
+      "en": "A carved black king chess figure",
+      "de": "Eine geschnitzte Schwarzer König Schachfigur"
+    },
+    "sellValue": 40,
+    "buyValue": 80,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_Chess_WhiteKing01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_Chess_WhiteKing01.prefab",
+    "category": "furniture",
+    "assetID": 1271367852,
+    "name": {
+      "en": "White King ",
+      "de": "Weißer König"
+    },
+    "description": {
+      "en": "A carved white king chess figure",
+      "de": "Eine geschnitzte Weißer König Schachfigur"
+    },
+    "sellValue": 40,
+    "buyValue": 80,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_FemaleHeadBust01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_FemaleHeadBust01.prefab",
+    "category": "furniture",
+    "assetID": -484767701,
+    "name": {
+      "en": "Female Bust",
+      "de": "Weibliche Büste"
+    },
+    "description": {
+      "en": "A carved female bust ",
+      "de": "Eine geschnitzte weibliche Büste"
+    },
+    "sellValue": 32,
+    "buyValue": 64,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_FemaleSculpture01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_FemaleSculpture01.prefab",
+    "category": "furniture",
+    "assetID": -1419093512,
+    "name": {
+      "en": "Sculpture of a Woman",
+      "de": "Skulptur einer Frau"
+    },
+    "description": {
+      "en": "A carved sculpture of a woman in a robe",
+      "de": "Eine geschnitzte Skultur einer Frau im Gewand "
+    },
+    "sellValue": 54,
+    "buyValue": 108,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_FlowerOrnament01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_FlowerOrnament01.prefab",
+    "category": "furniture",
+    "assetID": -1278925321,
+    "name": {
+      "en": "Flower Ornament",
+      "de": "Blumen Ornament"
+    },
+    "description": {
+      "en": "A carved ornament of a flower",
+      "de": "Ein geschnitztes Ornament einer Blume"
+    },
+    "sellValue": 8,
+    "buyValue": 16,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_MaleHeadBust01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_MaleHeadBust01.prefab",
+    "category": "furniture",
+    "assetID": 165704225,
+    "name": {
+      "en": "Bust of a Philosopher",
+      "de": "Büste eines Philosophen"
+    },
+    "description": {
+      "en": "A carved bust of a greek male philosopher",
+      "de": "Eine geschnitze Büste eines griechischen Philosophen"
+    },
+    "sellValue": 32,
+    "buyValue": 64,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_MaleHeadBust02",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_MaleHeadBust02.prefab",
+    "category": "furniture",
+    "assetID": -1882977212,
+    "name": {
+      "en": "Bust of a Young Man",
+      "de": "Büste eines jungen Mannes"
+    },
+    "description": {
+      "en": "A carved bust of a young man",
+      "de": "Eine geschnitzte Büste eines jungen Mannes"
+    },
+    "sellValue": 40,
+    "buyValue": 80,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_ShellOrnament01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_ShellOrnament01.prefab",
+    "category": "furniture",
+    "assetID": -244350377,
+    "name": {
+      "en": "Shell Ornament",
+      "de": "Muschel Ornament"
+    },
+    "description": {
+      "en": "A carved ornament of a sea shell",
+      "de": "Ein geschnitzes Ornament einer Meeresmuschel"
+    },
+    "sellValue": 8,
+    "buyValue": 16,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Carving_WavingCat",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Carving_WavingCat.prefab",
+    "category": "furniture",
+    "assetID": -926938235,
+    "name": {
+      "en": "Waving Cat",
+      "de": "Winkende Katze"
+    },
+    "description": {
+      "en": "A carved waving chinese cat ",
+      "de": "Eine geschnitzte chinesische Katze "
+    },
+    "sellValue": 24,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Hamstertech_Tricycle",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Hamstertech_Tricycle.prefab",
+    "category": "furniture",
+    "assetID": -954740455,
+    "name": {
+      "en": "Hamstertech Fan",
+      "de": "Hamstertech Ventilator"
+    },
+    "description": {
+      "en": "Cute pet companionship with built-in air conditioning.",
+      "de": "Süße Tiergesellschaft mit eingebauter Klimaanlage."
+    },
+    "sellValue": 4,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Hamstertech_Ventilator",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Hamstertech_Ventilator.prefab",
+    "category": "furniture",
+    "assetID": -251110231,
+    "name": {
+      "en": "Hamstertech Fan",
+      "de": "Hamstertech Ventilator"
+    },
+    "description": {
+      "en": "Cute pet companionship with built-in air conditioning.",
+      "de": "Süße Tiergesellschaft mit eingebauter Klimaanlage."
+    },
+    "sellValue": 4,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Log_Bench01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Log_Bench01.prefab",
+    "category": "furniture",
+    "assetID": 228043814,
+    "name": {
+      "en": "Backless Log Bench",
+      "de": "Holzstamm Bank ohne Rückenlehne"
+    },
+    "description": {
+      "en": "For those who like their comfort... natural and slightly uneven.",
+      "de": "Für alle, die ihren Komfort gern natürlich und leicht uneben mögen."
+    },
+    "sellValue": 24,
+    "buyValue": 48,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Log_Bench02",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Log_Bench02.prefab",
+    "category": "furniture",
+    "assetID": 374220867,
+    "name": {
+      "en": "Log bench with backrest",
+      "de": "Holzstamm Bank mit Rückenlehne"
+    },
+    "description": {
+      "en": "Solid support, questionable ergonomics.",
+      "de": "Solide gebaut, zweifelhafte Ergonomie."
+    },
+    "sellValue": 40,
+    "buyValue": 80,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Log_Stool01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Log_Stool01.prefab",
+    "category": "furniture",
+    "assetID": 338913913,
+    "name": {
+      "en": "Log Stool",
+      "de": "Holzscheit-Hocker"
+    },
+    "description": {
+      "en": "Nature’s minimalist throne.",
+      "de": "Mutter Naturs minimalisitischer Thron."
+    },
+    "sellValue": 18,
+    "buyValue": 36,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Log_Table01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Log_Table01.prefab",
+    "category": "furniture",
+    "assetID": 1919262135,
+    "name": {
+      "en": "Log Table",
+      "de": "Holzstamm Tisch"
+    },
+    "description": {
+      "en": "Retired from forest life, now hosts dinner parties.",
+      "de": "Im Wald in Rente gegangen, jetzt Gastgeber für Dinnerabende."
+    },
+    "sellValue": 36,
+    "buyValue": 72,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Nerds_ChemieKit01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Nerds_ChemieKit01.prefab",
+    "category": "furniture",
+    "assetID": -1580542745,
+    "name": {
+      "en": "Small Chemistry Kit",
+      "de": "Kleines Chemie-Set"
+    },
+    "description": {
+      "en": "A small Chemistry kit, good for mixing small amounts",
+      "de": "Ein kleines Chemie-Set, gut für kleinere Mixturen"
+    },
+    "sellValue": 129,
+    "buyValue": 150,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Nerds_ChemieKit02",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Nerds_ChemieKit02.prefab",
+    "category": "furniture",
+    "assetID": -734948866,
+    "name": {
+      "en": "Expert Chemistry Kit",
+      "de": "Experten Chemie-Set"
+    },
+    "description": {
+      "en": "A big professional Chemistry Kit",
+      "de": "Ein großes professionelles Chemie-Set"
+    },
+    "sellValue": 179,
+    "buyValue": 200,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Nerds_Console",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Nerds_Console.prefab",
+    "category": "furniture",
+    "assetID": -628519617,
+    "name": {
+      "en": "Gaming Console",
+      "de": "Spiele-Konsole"
+    },
+    "description": {
+      "en": "A powerful highend 32 Bit Gaming Console",
+      "de": "Eine Leistungsstarke 32 Bit Spiele-Konsole"
+    },
+    "sellValue": 179,
+    "buyValue": 329,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Nerds_Controller",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Nerds_Controller.prefab",
+    "category": "furniture",
+    "assetID": 1187446271,
+    "name": {
+      "en": "Controller \"Win Edition\"",
+      "de": "Controler \"Win Edition\""
+    },
+    "description": {
+      "en": "A controller you can't even lose with.",
+      "de": "Ein Controller mit dem du nicht verlieren kannst."
+    },
+    "sellValue": 229,
+    "buyValue": 279,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Birdhouse01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Birdhouse01.prefab",
+    "category": "furniture",
+    "assetID": 970779681,
+    "name": {
+      "en": "Birdhouse",
+      "de": "Vogelhaus"
+    },
+    "description": {
+      "en": "Feathered real estate at its finest.",
+      "de": "Gefiedertes Immobiliengold vom Feinsten."
+    },
+    "sellValue": 59,
+    "buyValue": 79,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Bookshelf01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Bookshelf01.prefab",
+    "category": "furniture",
+    "assetID": -1946537764,
+    "name": {
+      "en": "Small Bookshelf",
+      "de": "Kleines Bücherregal"
+    },
+    "description": {
+      "en": "Where stories live and dust gathers.",
+      "de": "Wo Geschichten wohnen und sich Staub sammelt."
+    },
+    "sellValue": 79,
+    "buyValue": 99,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Bookshelf02",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Bookshelf02.prefab",
+    "category": "furniture",
+    "assetID": 339152506,
+    "name": {
+      "en": "Big Bookshelf",
+      "de": "Großes Bücherregal"
+    },
+    "description": {
+      "en": "Description",
+      "de": "Erklärung"
+    },
+    "sellValue": 99,
+    "buyValue": 129,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Chair01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Chair01.prefab",
+    "category": "furniture",
+    "assetID": -935574128,
+    "name": {
+      "en": "Simple Chair",
+      "de": "Einfacher Stuhl"
+    },
+    "description": {
+      "en": "Description",
+      "de": "Erklärung"
+    },
+    "sellValue": 69,
+    "buyValue": 139,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Hamsterhouse01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Hamsterhouse01.prefab",
+    "category": "furniture",
+    "assetID": 696117654,
+    "name": {
+      "en": "Hamsterhouse",
+      "de": "Hamsterhaus"
+    },
+    "description": {
+      "en": "A cozy home designed to be ignored in favor of the wheel.",
+      "de": "Ein gemütliches Zuhause, das zugunsten des Laufrads konsequent ignoriert wird."
+    },
+    "sellValue": 29,
+    "buyValue": 79,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_NightStand01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_NightStand01.prefab",
+    "category": "furniture",
+    "assetID": -1889329762,
+    "name": {
+      "en": "Nightstand",
+      "de": "Nachttisch"
+    },
+    "description": {
+      "en": "Guardian of half empty water glasses and forgotten dreams.",
+      "de": "Wächter halbleerer Wassergläser und vergessener Träume."
+    },
+    "sellValue": 199,
+    "buyValue": 249,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_NightStandTinFoil01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_NightStandTinFoil01.prefab",
+    "category": "furniture",
+    "assetID": -2133663197,
+    "name": {
+      "en": "Special Delivery Nightstand",
+      "de": "Spezielle Nachttisch Lieferung"
+    },
+    "description": {
+      "en": "A nightstand full of tinfoil ",
+      "de": "Ein Nachttisch mit Alufolio gefüllt"
+    },
+    "sellValue": 299,
+    "buyValue": 249,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Stool01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Stool01.prefab",
+    "category": "furniture",
+    "assetID": 1822852465,
+    "name": {
+      "en": "Simple Stool",
+      "de": "Einfacher Hocker"
+    },
+    "description": {
+      "en": "Supports your weight, questions your life choices.",
+      "de": "Hält dein Gewicht, stellt deine Entscheidungen infrage."
+    },
+    "sellValue": 49,
+    "buyValue": 69,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Table01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Table01.prefab",
+    "category": "furniture",
+    "assetID": 1059808171,
+    "name": {
+      "en": "Simple Table",
+      "de": "Einfacher Tisch"
+    },
+    "description": {
+      "en": "Stands firm while you spill everything.",
+      "de": "Hält stand, auch wenn man alles verschüttet."
+    },
+    "sellValue": 59,
+    "buyValue": 99,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Regular_Tilestable01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Regular_Tilestable01.prefab",
+    "category": "furniture",
+    "assetID": -767451832,
+    "name": {
+      "en": "Grandma's Tiles Table",
+      "de": "Omas Fliesentisch"
+    },
+    "description": {
+      "en": "Stands strong under casseroles and gossip alike.",
+      "de": "Trägt Aufläufe, sowie Klatsch und Tratsch mit gleicher Stärke."
+    },
+    "sellValue": 249,
+    "buyValue": 299,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Stone_RockArmchair01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Stone_RockArmchair01.prefab",
+    "category": "furniture",
+    "assetID": -1626815918,
+    "name": {
+      "en": "Stone Armchair",
+      "de": "Steinsessel"
+    },
+    "description": {
+      "en": "Sturdy discipline for the back.",
+      "de": "Robuste Disziplin für den Rücken."
+    },
+    "sellValue": 29,
+    "buyValue": 79,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Stone_RockBeanbag01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Stone_RockBeanbag01.prefab",
+    "category": "furniture",
+    "assetID": 627837677,
+    "name": {
+      "en": "Stone Beanbag",
+      "de": "Stein Sitzsack"
+    },
+    "description": {
+      "en": "Molds to the users body, only takes centuries.",
+      "de": "Passt sich dem Körper des Nutzers an, es dauert nur ein paar Jahrhunderte."
+    },
+    "sellValue": 29,
+    "buyValue": 79,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Tech_Boombox01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Tech_Boombox01.prefab",
+    "category": "furniture",
+    "assetID": -1331687397,
+    "name": {
+      "en": "Boombox",
+      "de": "Boombox"
+    },
+    "description": {
+      "en": "Headphones for the whole neighborhood.",
+      "de": "Kopfhörer für das ganze Viertel. "
+    },
+    "sellValue": 229,
+    "buyValue": 200,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Torture_Cage01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Torture_Cage01.prefab",
+    "category": "furniture",
+    "assetID": 1085640110,
+    "name": {
+      "en": "Cozy Living Room",
+      "de": "Gemütliches Wohnzimmer"
+    },
+    "description": {
+      "en": "Home sweet ho… hold on.... wait a minute",
+      "de": "Home sweet ho... stop… warte mal"
+    },
+    "sellValue": 4,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Furniture_Torture_Chair01",
+    "prefabPath": "Resources/items/furniture/Item_Furniture_Torture_Chair01.prefab",
+    "category": "furniture",
+    "assetID": 921664673,
+    "name": {
+      "en": "Comfy Chair 3000",
+      "de": "Gemütlicher Stuhl 3000"
+    },
+    "description": {
+      "en": "Torture Chair Description",
+      "de": "Folter Stuhl Beschreibung"
+    },
+    "sellValue": 4,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Lewis",
+    "prefabPath": "Resources/items/furniture/Item_Lewis.prefab",
+    "category": "furniture",
+    "assetID": -1930709504,
+    "name": {
+      "en": "Luis",
+      "de": "Luis"
+    },
+    "description": {
+      "en": "He has seen better days.",
+      "de": "Hat schon bessere Tage gesehen."
+    },
+    "sellValue": 4,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_SoupSpoon",
+    "prefabPath": "Resources/items/furniture/Item_SoupSpoon.prefab",
+    "category": "furniture",
+    "assetID": 2031685104,
+    "name": {
+      "en": "Soup Spoon",
+      "de": "Suppenlöffel"
+    },
+    "description": {
+      "en": "Official transport system for hot liquids.",
+      "de": "Offizielles Transportsystem heißer Flüssigkeiten."
+    },
+    "sellValue": 16,
+    "buyValue": 32,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Tech_Mailbox",
+    "prefabPath": "Resources/items/furniture/Item_Tech_Mailbox.prefab",
+    "category": "furniture",
+    "assetID": 301149673,
+    "name": {
+      "en": "Mailbox",
+      "de": "Briefkasten"
+    },
+    "description": {
+      "en": "A treasure chest for junk mail",
+      "de": "Eine Schatztruhe für Werbung."
+    },
+    "sellValue": 59,
+    "buyValue": 59,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Tech_MailboxHolder",
+    "prefabPath": "Resources/items/furniture/Item_Tech_MailboxHolder.prefab",
+    "category": "furniture",
+    "assetID": -611642507,
+    "name": {
+      "en": "Mailbox Holder",
+      "de": "Briefkasten Halterung"
+    },
+    "description": {
+      "en": "An ideal solution to avoid bending over",
+      "de": "Eine ideale Lösung um Bücken zu vermeiden"
+    },
+    "sellValue": 15,
+    "buyValue": 40,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Tech_WoodPC",
+    "prefabPath": "Resources/items/furniture/Item_Tech_WoodPC.prefab",
+    "category": "furniture",
+    "assetID": 1488905137,
+    "name": {
+      "en": "Wood PC",
+      "de": "Holz PC"
+    },
+    "description": {
+      "en": "Hard drive? More like hard wood.",
+      "de": "Hard Drive? Eher Hartholz."
+    },
+    "sellValue": 189,
+    "buyValue": 399,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Apple",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Apple.prefab",
+    "category": "rawmaterials",
+    "assetID": 1754088589,
+    "name": {
+      "en": "Apple Wood",
+      "de": "Apfelholz"
+    },
+    "description": {
+      "en": "Your secret fetish, but smells like warm applepie",
+      "de": "Dein heimlicher Fetisch, aber es riecht nach warmem Apfelkuchen."
+    },
+    "sellValue": 1,
+    "buyValue": 3,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Birch",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Birch.prefab",
+    "category": "rawmaterials",
+    "assetID": 832678487,
+    "name": {
+      "en": "Birch Wood",
+      "de": "Birkenholz"
+    },
+    "description": {
+      "en": "Your secret fetish",
+      "de": "Dein heimlicher Fetisch"
+    },
+    "sellValue": 1,
+    "buyValue": 3,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_BirchChopChop",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_BirchChopChop.prefab",
+    "category": "rawmaterials",
+    "assetID": -66441736,
+    "name": {
+      "en": "Birch Wood",
+      "de": "Birkenholz"
+    },
+    "description": {
+      "en": "Your secret fetish",
+      "de": "Dein heimlicher Fetisch"
+    },
+    "sellValue": 1,
+    "buyValue": 3,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Crystal",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Crystal.prefab",
+    "category": "rawmaterials",
+    "assetID": 927320022,
+    "name": {
+      "en": "Stone Wood",
+      "de": "Steinholz"
+    },
+    "description": {
+      "en": "Its wood! But made out of stone! Almost as hard as your biceps",
+      "de": "Es ist Holz! Aber aus Stein gemacht! Fast so hart wie dein Bizeps."
+    },
+    "sellValue": 6,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Electronic",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Electronic.prefab",
+    "category": "rawmaterials",
+    "assetID": 661006723,
+    "name": {
+      "en": "Electric Wood",
+      "de": "Elektrisches Holz"
+    },
+    "description": {
+      "en": "Your secret fetish, but buzzing with energy",
+      "de": "Dein heimlicher Fetisch, aber voller Energie"
+    },
+    "sellValue": 5,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Metal",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Metal.prefab",
+    "category": "rawmaterials",
+    "assetID": 1345151148,
+    "name": {
+      "en": "Metal Wood",
+      "de": "Metallholz"
+    },
+    "description": {
+      "en": "Your secret fetish, but cold and shiny",
+      "de": "Dein heimlicher Fetisch, aber kalt und glänzend"
+    },
+    "sellValue": 4,
+    "buyValue": 6,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Palm",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Palm.prefab",
+    "category": "rawmaterials",
+    "assetID": -780345321,
+    "name": {
+      "en": "Palmwood",
+      "de": "Palmenholz"
+    },
+    "description": {
+      "en": "Robust palm wood, well suited for exotic pieces of furniture.s",
+      "de": "Robustes Palmenholz, gut geeignet für exotische Möbelstücke"
+    },
+    "sellValue": 2,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Stone",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Stone.prefab",
+    "category": "rawmaterials",
+    "assetID": 612233208,
+    "name": {
+      "en": "Stone Wood",
+      "de": "Steinholz"
+    },
+    "description": {
+      "en": "Its wood! But made out of stone! Almost as hard as your biceps",
+      "de": "Es ist Holz! Aber aus Stein gemacht! Fast so hart wie dein Bizeps."
+    },
+    "sellValue": 3,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_TrunkSplit_Apple",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_TrunkSplit_Apple.prefab",
+    "category": "rawmaterials",
+    "assetID": 605331315,
+    "name": {
+      "en": "Halved Apple Tree Trunk",
+      "de": "halber Apfelbaumstamm"
+    },
+    "description": {
+      "en": "Halved apple tree trunk",
+      "de": "halbierter Apfelbaumstamm"
+    },
+    "sellValue": 2,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_TrunkSplit_Birch",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_TrunkSplit_Birch.prefab",
+    "category": "rawmaterials",
+    "assetID": 781908939,
+    "name": {
+      "en": "Halved Birch Tree Trunk",
+      "de": "halbierter Birken Baumstamm"
+    },
+    "description": {
+      "en": "Halved Birch Tree Trunk",
+      "de": "halbierter Birken Baumstamm"
+    },
+    "sellValue": 2,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_TrunkSplit_Electro",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_TrunkSplit_Electro.prefab",
+    "category": "rawmaterials",
+    "assetID": 1152204061,
+    "name": {
+      "en": "Halved Electric Tree Trunk",
+      "de": "halbierter Elektronik Baumstamm"
+    },
+    "description": {
+      "en": "Halved Electric Tree Trunk",
+      "de": "halbierter Elektro Baumstamm"
+    },
+    "sellValue": 9,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_TrunkSplit_Metal",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_TrunkSplit_Metal.prefab",
+    "category": "rawmaterials",
+    "assetID": 362378741,
+    "name": {
+      "en": "halved metal tree trunk",
+      "de": "halbierter Metall Baumstamm"
+    },
+    "description": {
+      "en": "Halved Metal Tree Trunk",
+      "de": "halbierter Metall Baumstamm"
+    },
+    "sellValue": 7,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_TrunkSplit_Palm",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_TrunkSplit_Palm.prefab",
+    "category": "rawmaterials",
+    "assetID": -826417313,
+    "name": {
+      "en": "Halved Palm Tree Trunk",
+      "de": "halbierter Palm Baumstamm"
+    },
+    "description": {
+      "en": "Palm Tree Trunk",
+      "de": "Palm Baumstamm"
+    },
+    "sellValue": 3,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_TrunkSplit_Stone",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_TrunkSplit_Stone.prefab",
+    "category": "rawmaterials",
+    "assetID": -1069081036,
+    "name": {
+      "en": "Halved Stone Tree Trunk",
+      "de": "halbierter Stein Baumstamm"
+    },
+    "description": {
+      "en": "Halved Stone Tree Trunk",
+      "de": "halbierter Stein Baumstamm"
+    },
+    "sellValue": 5,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_TrunkSplit_Walnut",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_TrunkSplit_Walnut.prefab",
+    "category": "rawmaterials",
+    "assetID": 1443844607,
+    "name": {
+      "en": "Halved Walnut Tree Trunk",
+      "de": "halbierter Walnuss Baumstamm"
+    },
+    "description": {
+      "en": "Halved Walnut Tree Trunk",
+      "de": "halbierter Walnuss Baumstamm"
+    },
+    "sellValue": 3,
+    "buyValue": 20,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Trunk_Apple",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Trunk_Apple.prefab",
+    "category": "rawmaterials",
+    "assetID": 1803886320,
+    "name": {
+      "en": "Apple Tree Trunk",
+      "de": "Apfelbaumstamm"
+    },
+    "description": {
+      "en": "Apple tree trunk",
+      "de": "Apfelbaumstamm"
+    },
+    "sellValue": 3,
+    "buyValue": 30,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Trunk_Birch",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Trunk_Birch.prefab",
+    "category": "rawmaterials",
+    "assetID": 1164432156,
+    "name": {
+      "en": "Birch Tree Trunk",
+      "de": "Birken Baumstamm"
+    },
+    "description": {
+      "en": "Birch Tree Trunk",
+      "de": "Birken Baumstamm"
+    },
+    "sellValue": 3,
+    "buyValue": 30,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Trunk_Electro",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Trunk_Electro.prefab",
+    "category": "rawmaterials",
+    "assetID": 912705605,
+    "name": {
+      "en": "Electric Tree Trunk",
+      "de": "Elektronik Baumstamm"
+    },
+    "description": {
+      "en": "Electric Tree Trunk",
+      "de": "Elektronik Baumstamm"
+    },
+    "sellValue": 17,
+    "buyValue": 30,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Trunk_Metal",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Trunk_Metal.prefab",
+    "category": "rawmaterials",
+    "assetID": -1662037360,
+    "name": {
+      "en": "Metal Tree Trunk",
+      "de": "Metal Baumstamm"
+    },
+    "description": {
+      "en": "Metal Tree Trunk",
+      "de": "Metall Baumstamm"
+    },
+    "sellValue": 13,
+    "buyValue": 30,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Trunk_Palm",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Trunk_Palm.prefab",
+    "category": "rawmaterials",
+    "assetID": 1649389666,
+    "name": {
+      "en": "Palm Trunk",
+      "de": "Palm Baumstamm"
+    },
+    "description": {
+      "en": "Palm Trunk",
+      "de": "Palm Baumstamm"
+    },
+    "sellValue": 5,
+    "buyValue": 30,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Trunk_Stone",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Trunk_Stone.prefab",
+    "category": "rawmaterials",
+    "assetID": 562470880,
+    "name": {
+      "en": "Stone Tree Trunk",
+      "de": "Stein Baumstamm"
+    },
+    "description": {
+      "en": "Stone Tree Trunk",
+      "de": "Stein Baumstamm"
+    },
+    "sellValue": 9,
+    "buyValue": 30,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Trunk_Walnut",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Trunk_Walnut.prefab",
+    "category": "rawmaterials",
+    "assetID": -814292983,
+    "name": {
+      "en": "Walnut Tree Trunk",
+      "de": "Walnuss Baumstamm"
+    },
+    "description": {
+      "en": "Walnut Tree Trunk",
+      "de": "Walnuss Baumstamm"
+    },
+    "sellValue": 5,
+    "buyValue": 30,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RawMaterial_Wood_Walnut",
+    "prefabPath": "Resources/items/rawmaterials/Item_RawMaterial_Wood_Walnut.prefab",
+    "category": "rawmaterials",
+    "assetID": -460513208,
+    "name": {
+      "en": "Walnut Wood",
+      "de": "Walnussholz"
+    },
+    "description": {
+      "en": "Your secret fetish, but with a nutty aroma",
+      "de": "Dein heimlicher Fetisch, aber mit einem nussigen Aroma"
+    },
+    "sellValue": 2,
+    "buyValue": 9,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_Beam_Birch01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_Beam_Birch01.prefab",
+    "category": "refinedmaterials",
+    "assetID": -606966375,
+    "name": {
+      "en": "Birch Beam",
+      "de": "Birkenholzbalken"
+    },
+    "description": {
+      "en": "Amazing girth",
+      "de": "Erstaunlicher Umfang"
+    },
+    "sellValue": 2,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_Beam_Walnut01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_Beam_Walnut01.prefab",
+    "category": "refinedmaterials",
+    "assetID": -395762217,
+    "name": {
+      "en": "Walnut Beam",
+      "de": "Walnußholzbalken"
+    },
+    "description": {
+      "en": "Amazing girth and nutty flavor.",
+      "de": "Erstaunlicher Umfang und nussiges Aroma."
+    },
+    "sellValue": 3,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_metalIngot01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_metalIngot01.prefab",
+    "category": "refinedmaterials",
+    "assetID": 1571024632,
+    "name": {
+      "en": "Metal Ingot",
+      "de": "Metallbarren"
+    },
+    "description": {
+      "en": "A heavy metal ingo smelted in high temperatures",
+      "de": "Ein schwerer Metallbarren, der unter hoher Hitze gefertigt wurde."
+    },
+    "sellValue": 4,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_Metal_Cogwheel01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_Metal_Cogwheel01.prefab",
+    "category": "refinedmaterials",
+    "assetID": -1999518381,
+    "name": {
+      "en": "Cogwheel",
+      "de": "Zahnrad"
+    },
+    "description": {
+      "en": "A small metal wheel with big mechanical influence.",
+      "de": "Ein kleines Metallrad mit großem mechanischem Einfluss."
+    },
+    "sellValue": 10,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_Plank_Birch01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_Plank_Birch01.prefab",
+    "category": "refinedmaterials",
+    "assetID": -715207752,
+    "name": {
+      "en": "Birch Plank",
+      "de": "Birkenholzbrett"
+    },
+    "description": {
+      "en": "Well suited for reinforcing doors against zombies",
+      "de": "Gut geeignet zur Verstärkung von Türen gegen Zombies"
+    },
+    "sellValue": 2,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_Plank_Walnut01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_Plank_Walnut01.prefab",
+    "category": "refinedmaterials",
+    "assetID": -432454948,
+    "name": {
+      "en": "Walnut Plank",
+      "de": "Walnußholzbrett"
+    },
+    "description": {
+      "en": "Well suited to aromatically confuse squirrels.",
+      "de": "Gut geeignet um mit dem Aroma Eichhörnchen zu verwirren."
+    },
+    "sellValue": 3,
+    "buyValue": 12,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_SmallParts_Birch01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_SmallParts_Birch01.prefab",
+    "category": "refinedmaterials",
+    "assetID": -1311155415,
+    "name": {
+      "en": "Small Birch Beam",
+      "de": "Kleiner Birkenholz Balken"
+    },
+    "description": {
+      "en": "Tackling smaller tasks.",
+      "de": "Für kleinere Aufgaben."
+    },
+    "sellValue": 1,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RefinedMaterial_SmallParts_Walnut01",
+    "prefabPath": "Resources/items/refinedmaterials/Item_RefinedMaterial_SmallParts_Walnut01.prefab",
+    "category": "refinedmaterials",
+    "assetID": 989654935,
+    "name": {
+      "en": "Small Walnut Beam",
+      "de": "Kleiner Walnuss Balken"
+    },
+    "description": {
+      "en": "Tackling smaller tasks with a walnut flavor.",
+      "de": "Ideal für kleinere Aufgaben-mit Walnuss Duft."
+    },
+    "sellValue": 2,
+    "buyValue": 10,
+    "isSellable": true
+  },
+  {
+    "id": "Item_RubberDuck01 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck01 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": -665388996,
+    "name": {
+      "en": "Rubberduck",
+      "de": "Gummiente"
+    },
+    "description": {
+      "en": "Just an ordinary squeaky rubber duck. It makes a high-pitched sound when you squeeze it.",
+      "de": "Eine ganz gewöhnliche Quietsche Ente. Sie macht einen schrillen Sound, wenn man sie drückt."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck01",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck01.prefab",
+    "category": "rubberducks",
+    "assetID": -388153159,
+    "name": {
+      "en": "Rubberduck",
+      "de": "Gummiente"
+    },
+    "description": {
+      "en": "Just an ordinary squeaky rubber duck. It makes a high-pitched sound when you squeeze it.",
+      "de": "Eine ganz gewöhnliche Quietsche Ente. Sie macht einen schrillen Sound, wenn man sie drückt."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck02 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck02 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": -1706473791,
+    "name": {
+      "en": "Furnox Duck",
+      "de": "Furnox Ente"
+    },
+    "description": {
+      "en": "Pure evil. A duck so evil that even the devil is afraid of it.",
+      "de": "Das pure Böse. Eine Ente so Böse das selbst der Teufel Angst vor ihr hat."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck02",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck02.prefab",
+    "category": "rubberducks",
+    "assetID": -385432127,
+    "name": {
+      "en": "Furnox Duck",
+      "de": "Furnox Ente"
+    },
+    "description": {
+      "en": "Pure evil. A duck so evil that even the devil is afraid of it.",
+      "de": "Das pure Böse. Eine Ente so Böse das selbst der Teufel Angst vor ihr hat."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck03 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck03 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 1273779679,
+    "name": {
+      "en": "Purple Duck",
+      "de": "Lila Ente"
+    },
+    "description": {
+      "en": "A purple duck. What's the story behind it?",
+      "de": "Eine Lila Ente. Was hat es damit auf sich ?"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck03",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck03.prefab",
+    "category": "rubberducks",
+    "assetID": -1837623357,
+    "name": {
+      "en": "Purple Duck",
+      "de": "Lila Ente"
+    },
+    "description": {
+      "en": "A purple duck. What's the story behind it?",
+      "de": "Eine Lila Ente. Was hat es damit auf sich ?"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck04 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck04 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 919307794,
+    "name": {
+      "en": "Luxury  Duck",
+      "de": "Luxus Ente"
+    },
+    "description": {
+      "en": "Bling bling! That's all this duck cares about.",
+      "de": "Bling Bling! Dies ist das einzige was diese Ente interessiert."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck04",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck04.prefab",
+    "category": "rubberducks",
+    "assetID": 1927355677,
+    "name": {
+      "en": "Luxury  Duck",
+      "de": "Luxus Ente"
+    },
+    "description": {
+      "en": "Bling bling! That's all this duck cares about.",
+      "de": "Bling Bling! Dies ist das einzige was diese Ente interessiert."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck05 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck05 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 1855535744,
+    "name": {
+      "en": "Gentleman Duck",
+      "de": "Gentleman Ente"
+    },
+    "description": {
+      "en": "A true old-school gentleman, always polite and courteous.",
+      "de": "Ein wahrer Gentleman der alten Schule, immer höflich und zuvorkommend."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck05",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck05.prefab",
+    "category": "rubberducks",
+    "assetID": -1115390549,
+    "name": {
+      "en": "Gentleman Duck",
+      "de": "Gentleman Ente"
+    },
+    "description": {
+      "en": "A true old-school gentleman, always polite and courteous.",
+      "de": "Ein wahrer Gentleman der alten Schule, immer höflich und zuvorkommend."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck06 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck06 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 1027138045,
+    "name": {
+      "en": "Noble Duck",
+      "de": "Adlige Ente"
+    },
+    "description": {
+      "en": "The noblest of ducks, its beak lifted proudly toward the sky.",
+      "de": "Die edelste aller Enten, den Schnabel stolz zum Himmel gereckt."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck06",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck06.prefab",
+    "category": "rubberducks",
+    "assetID": 613145063,
+    "name": {
+      "en": "Noble Duck",
+      "de": "Adlige Ente"
+    },
+    "description": {
+      "en": "The noblest of ducks, its beak lifted proudly toward the sky.",
+      "de": "Die edelste aller Enten, den Schnabel stolz zum Himmel gereckt."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck07 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck07 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": -49099720,
+    "name": {
+      "en": "Astronaut Duck",
+      "de": "Astronauten Ente"
+    },
+    "description": {
+      "en": "Not so lost in Space. Lightyears away. Discovering new species.",
+      "de": "Nicht ganz so verloren im Weltraum. Lichtjahre entfernt. Auf der Suche nach neuen Spezies."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck07",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck07.prefab",
+    "category": "rubberducks",
+    "assetID": -895436007,
+    "name": {
+      "en": "Astronaut Duck",
+      "de": "Astronauten Ente"
+    },
+    "description": {
+      "en": "Not so lost in Space. Lightyears away. Discovering new species.",
+      "de": "Nicht ganz so verloren im Weltraum. Lichtjahre entfernt. Auf der Suche nach neuen Spezies."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck08 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck08 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 1560501529,
+    "name": {
+      "en": "The builder Duck",
+      "de": "Baumeisterente"
+    },
+    "description": {
+      "en": "Can we fix it? Yes, we can!",
+      "de": "Können wir das schaffen? Yo, wir schaffen das!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck08",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck08.prefab",
+    "category": "rubberducks",
+    "assetID": -1013251903,
+    "name": {
+      "en": "The builder Duck",
+      "de": "Baumeisterente"
+    },
+    "description": {
+      "en": "Can we fix it? Yes, we can!",
+      "de": "Können wir das schaffen? Yo, wir schaffen das!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck09 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck09 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 244937476,
+    "name": {
+      "en": "Viking Duck",
+      "de": "Vikinger Ente"
+    },
+    "description": {
+      "en": "A Viking duck with a Nordic heart. Ready to move into Valhalla",
+      "de": "Eine Wikinger-Ente mit nordischem Herz. Bereit für den Einzug ins Valhalla."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck09",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck09.prefab",
+    "category": "rubberducks",
+    "assetID": -1409657020,
+    "name": {
+      "en": "Viking Duck",
+      "de": "Vikinger Ente"
+    },
+    "description": {
+      "en": "A Viking duck with a Nordic heart. Ready to move into Valhalla",
+      "de": "Eine Wikinger-Ente mit nordischem Herz. Bereit für den Einzug ins Valhalla."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck10 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck10 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": -2067901391,
+    "name": {
+      "en": "Soldier Duck",
+      "de": "Soldaten Ente"
+    },
+    "description": {
+      "en": "The Soldier Duck, a loyal comrade. As brave as an entire army!",
+      "de": "Die Soldaten Ente, ein treuer Kamerad. Mutig wie ein ganzes Heer!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck10",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck10.prefab",
+    "category": "rubberducks",
+    "assetID": 716273484,
+    "name": {
+      "en": "Soldier Duck",
+      "de": "Soldaten Ente"
+    },
+    "description": {
+      "en": "The Soldier Duck, a loyal comrade. As brave as an entire army!",
+      "de": "Die Soldaten Ente, ein treuer Kamerad. Mutig wie ein ganzes Heer!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck11 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck11 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 1025875099,
+    "name": {
+      "en": "Spikey Duck",
+      "de": "Stachel Ente"
+    },
+    "description": {
+      "en": "A very spikey duck. Don't keep it near your balloons.",
+      "de": "Eine sehr stachelige Ente. Halte sie nicht in der Nähe deiner Luftballons"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck11",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck11.prefab",
+    "category": "rubberducks",
+    "assetID": 1019905044,
+    "name": {
+      "en": "Spikey Duck",
+      "de": "Stachel Ente"
+    },
+    "description": {
+      "en": "A very spikey duck. Don't keep it near your balloons.",
+      "de": "Eine sehr stachelige Ente. Halte sie nicht in der Nähe deiner Luftballons"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck12 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck12 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": -1972991156,
+    "name": {
+      "en": "Lava Duck",
+      "de": "Lava Ente"
+    },
+    "description": {
+      "en": "Caution HOT ! May errupt pretty fast, hold with caution !",
+      "de": "Achtung, HEISS! Kann ziemlich schnell ausbrechen, bitte vorsichtig halten!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck12",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck12.prefab",
+    "category": "rubberducks",
+    "assetID": -1791220865,
+    "name": {
+      "en": "Lava Duck",
+      "de": "Lava Ente"
+    },
+    "description": {
+      "en": "Caution HOT ! May errupt pretty fast, hold with caution !",
+      "de": "Achtung, HEISS! Kann ziemlich schnell ausbrechen, bitte vorsichtig halten!"
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck13 Variant",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck13 Variant.prefab",
+    "category": "rubberducks",
+    "assetID": 1794654033,
+    "name": {
+      "en": "Crystal Duck",
+      "de": "Kristall Ente"
+    },
+    "description": {
+      "en": "A sparkling crystal duck. Beautiful, yet very fragile.",
+      "de": "Eine funkelnde Kristall Ente. Wunderschön doch sehr fragil."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_RubberDuck13",
+    "prefabPath": "Resources/items/rubberducks/Item_RubberDuck13.prefab",
+    "category": "rubberducks",
+    "assetID": 1699518619,
+    "name": {
+      "en": "Crystal Duck",
+      "de": "Kristall Ente"
+    },
+    "description": {
+      "en": "A sparkling crystal duck. Beautiful, yet very fragile.",
+      "de": "Eine funkelnde Kristall Ente. Wunderschön doch sehr fragil."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Toys_Horse01",
+    "prefabPath": "Resources/items/toys/Item_Toys_Horse01.prefab",
+    "category": "toys",
+    "assetID": 1790748651,
+    "name": {
+      "en": "Rocking Horse",
+      "de": "Schaukelpferd"
+    },
+    "description": {
+      "en": "Galloping in place since 1625.",
+      "de": "Gallopiert auf der Stelle seit 1625."
+    },
+    "sellValue": 59,
+    "buyValue": 89,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Toys_Plane01",
+    "prefabPath": "Resources/items/toys/Item_Toys_Plane01.prefab",
+    "category": "toys",
+    "assetID": 1172599402,
+    "name": {
+      "en": "Wooden Plane",
+      "de": "Holzflugzeug"
+    },
+    "description": {
+      "en": "Runs on imagination, not jet fuel.",
+      "de": "Fliegt mit Vorstellungskraft, nicht mit Kerosin."
+    },
+    "sellValue": 49,
+    "buyValue": 129,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Toys_Sword01",
+    "prefabPath": "Resources/items/toys/Item_Toys_Sword01.prefab",
+    "category": "toys",
+    "assetID": 1165272690,
+    "name": {
+      "en": "Wooden Sword",
+      "de": "Holzschwert"
+    },
+    "description": {
+      "en": "Hero tested, parental approved.",
+      "de": "Von Helden getestet und Eltern erlaubt."
+    },
+    "sellValue": 19,
+    "buyValue": 48,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Toys_Train01",
+    "prefabPath": "Resources/items/toys/Item_Toys_Train01.prefab",
+    "category": "toys",
+    "assetID": 923147074,
+    "name": {
+      "en": "Wooden Train",
+      "de": "Holzzug"
+    },
+    "description": {
+      "en": "Choo choo!",
+      "de": "Choo choo!"
+    },
+    "sellValue": 49,
+    "buyValue": 129,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Weights_Barbell01",
+    "prefabPath": "Resources/items/weights/Item_Weights_Barbell01.prefab",
+    "category": "weights",
+    "assetID": 769674174,
+    "name": {
+      "en": "Barbell",
+      "de": "Langhantel"
+    },
+    "description": {
+      "en": "Heavy wooden weight.",
+      "de": "Schweres Holzgewicht."
+    },
+    "sellValue": 59,
+    "buyValue": 99,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Weights_Bench01",
+    "prefabPath": "Resources/items/weights/Item_Weights_Bench01.prefab",
+    "category": "weights",
+    "assetID": 1908084423,
+    "name": {
+      "en": "Weight Bench",
+      "de": "Hantelbank"
+    },
+    "description": {
+      "en": "Ideal for both workouts and avoiding them.",
+      "de": "Ideal für Workouts oder um sie zu vermeiden."
+    },
+    "sellValue": 60,
+    "buyValue": 189,
+    "isSellable": true
+  },
+  {
+    "id": "Item_Weights_Dumbbells01",
+    "prefabPath": "Resources/items/weights/Item_Weights_Dumbbells01.prefab",
+    "category": "weights",
+    "assetID": 1434423793,
+    "name": {
+      "en": "Dumbbells",
+      "de": "Hantel"
+    },
+    "description": {
+      "en": "5kg Dumbbells",
+      "de": "5kg Hanteln"
+    },
+    "sellValue": 39,
+    "buyValue": 49,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead01Cut",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHead01Cut.prefab",
+    "category": "mushroomcut",
+    "assetID": 1805208359,
+    "name": {
+      "en": "diced glowing Mushroom",
+      "de": "gewürfelter leuchtender Pilz"
+    },
+    "description": {
+      "en": "A diced squishy glowing shroom that squeaks when you rub it",
+      "de": "Ein gewürfelter leuchtender, matschiger Pilz, der quietscht, wenn man ihn reibt"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead02Cut",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHead02Cut.prefab",
+    "category": "mushroomcut",
+    "assetID": -1018858177,
+    "name": {
+      "en": "diced spiky Mushroom",
+      "de": "gewürfelter stacheliger Pilz"
+    },
+    "description": {
+      "en": "A diced spiky Mushroom, it pricks the throat slightly when swallowed. Consumption is not recommended.",
+      "de": "Ein gewürfelter stacheliger Pilz, sticht etwas beim Schlucken. Vom Verzehr wird abgeraten."
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead03Cut",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHead03Cut.prefab",
+    "category": "mushroomcut",
+    "assetID": 1328475094,
+    "name": {
+      "en": "diced Big Head Mushroom",
+      "de": "gewürfelter Großkopf Pilz"
+    },
+    "description": {
+      "en": "A diced Mushroom with a huge Head, tastes kinda sweet",
+      "de": "Ein gewürfelter Pilz mit einem riesen Kopf, schmeckt leicht süßlich"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead04Cut",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHead04Cut.prefab",
+    "category": "mushroomcut",
+    "assetID": -685839944,
+    "name": {
+      "en": "diced Shriveled Mushroom",
+      "de": "gewürfelter schrumpeliger Pilz"
+    },
+    "description": {
+      "en": "A diced shriveled Mushroom, tastes bitter when uncooked",
+      "de": "Ein gewürfelter schrumpeliger Pilz, schmeckt bitter , wenn ungekocht"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHead05Cut",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHead05Cut.prefab",
+    "category": "mushroomcut",
+    "assetID": 1075139834,
+    "name": {
+      "en": "diced Mushroom",
+      "de": "gewürfelter Pilz"
+    },
+    "description": {
+      "en": "A mushroom cut into pieces, this is my last.... tastes like wood",
+      "de": "Ein in Stücke geschnittener Pilz, das ist mein letzter … schmeckt nach Holz"
+    },
+    "sellValue": 2,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHeadCutable01",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHeadCutable01.prefab",
+    "category": "mushroomcut",
+    "assetID": 1125068272,
+    "name": {
+      "en": "Glowing Mushroom",
+      "de": "Leuchtender Pilz"
+    },
+    "description": {
+      "en": "A squishy glowing shroom that squeaks when you rub it",
+      "de": "Ein leuchtender, matschiger Pilz, der quietscht, wenn man ihn reibt"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHeadCutable02",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHeadCutable02.prefab",
+    "category": "mushroomcut",
+    "assetID": 1769361903,
+    "name": {
+      "en": "Spiky Mushroom",
+      "de": "Stacheliger Pilz"
+    },
+    "description": {
+      "en": "Uncooked, it’s your last snack",
+      "de": "Ungekocht, dein letzter Snack"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHeadCutable03",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHeadCutable03.prefab",
+    "category": "mushroomcut",
+    "assetID": 954948360,
+    "name": {
+      "en": "Big Head Mushroom",
+      "de": "Großkopf Pilz"
+    },
+    "description": {
+      "en": "A Mushroom with a huge Head, tastes kinda sweet",
+      "de": "Ein Pilz mit einem riesen Kopf, schmeckt leicht süßlich"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHeadCutable04",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHeadCutable04.prefab",
+    "category": "mushroomcut",
+    "assetID": 1601106642,
+    "name": {
+      "en": "Shriveled Mushroom",
+      "de": "schrumpeliger Pilz"
+    },
+    "description": {
+      "en": "Small shriveled Mushroom, tastes bitter when uncooked",
+      "de": "Kleiner schrumpeliger Pilz, schmeckt bitter , wenn ungekocht"
+    },
+    "sellValue": 3,
+    "buyValue": 8,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomHeadCutable05",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomHeadCutable05.prefab",
+    "category": "mushroomcut",
+    "assetID": -866461533,
+    "name": {
+      "en": "Mushroom",
+      "de": "Pilz"
+    },
+    "description": {
+      "en": "A mushroom that does not like this game",
+      "de": "Ein Pilz, der dieses Spiel nicht mag"
+    },
+    "sellValue": 2,
+    "buyValue": 5,
+    "isSellable": true
+  },
+  {
+    "id": "Item_MushroomSinglePiece01",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomSinglePiece01.prefab",
+    "category": "mushroomcut",
+    "assetID": null,
+    "name": null,
+    "description": null,
+    "sellValue": null,
+    "buyValue": null,
+    "isSellable": null
+  },
+  {
+    "id": "Item_MushroomSinglePiece02",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomSinglePiece02.prefab",
+    "category": "mushroomcut",
+    "assetID": null,
+    "name": null,
+    "description": null,
+    "sellValue": null,
+    "buyValue": null,
+    "isSellable": null
+  },
+  {
+    "id": "Item_MushroomSinglePiece03",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomSinglePiece03.prefab",
+    "category": "mushroomcut",
+    "assetID": null,
+    "name": null,
+    "description": null,
+    "sellValue": null,
+    "buyValue": null,
+    "isSellable": null
+  },
+  {
+    "id": "Item_MushroomSinglePiece04",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomSinglePiece04.prefab",
+    "category": "mushroomcut",
+    "assetID": null,
+    "name": null,
+    "description": null,
+    "sellValue": null,
+    "buyValue": null,
+    "isSellable": null
+  },
+  {
+    "id": "Item_MushroomSinglePiece05",
+    "prefabPath": "Resources/items/food/mushroomcut/Item_MushroomSinglePiece05.prefab",
+    "category": "mushroomcut",
+    "assetID": null,
+    "name": null,
+    "description": null,
+    "sellValue": null,
+    "buyValue": null,
+    "isSellable": null
+  },
+  {
+    "id": "Item_Furniture_Special_SirWorcestershireCastleBoard02",
+    "prefabPath": "Resources/items/furniture/furniture_special_sirworcestershirecastleboard01/Item_Furniture_Special_SirWorcestershireCastleBoard02.prefab",
+    "category": "furniture_special_sirworcestershirecastleboard01",
+    "assetID": 224180443,
+    "name": {
+      "en": "Sir Worcestershire's new home",
+      "de": "Sir Worcestershires neues Zuhause"
+    },
+    "description": {
+      "en": "An adequate home for Sir Worcestershire.",
+      "de": "Ein standesgemäßes Zuhause für Sir Worcestershire."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Furniture_Special_SirWorcestershireCastleBoard03",
+    "prefabPath": "Resources/items/furniture/furniture_special_sirworcestershirecastleboard01/Item_Furniture_Special_SirWorcestershireCastleBoard03.prefab",
+    "category": "furniture_special_sirworcestershirecastleboard01",
+    "assetID": -347741753,
+    "name": {
+      "en": "Sir Worcestershire's new home",
+      "de": "Sir Worcestershires neues Zuhause"
+    },
+    "description": {
+      "en": "An adequate home for Sir Worcestershire.",
+      "de": "Ein standesgemäßes Zuhause für Sir Worcestershire."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Furniture_Special_SirWorcestershiresCastleBoard",
+    "prefabPath": "Resources/items/furniture/furniture_special_sirworcestershirecastleboard01/Item_Furniture_Special_SirWorcestershiresCastleBoard.prefab",
+    "category": "furniture_special_sirworcestershirecastleboard01",
+    "assetID": -775971571,
+    "name": {
+      "en": "Castle Board",
+      "de": "Schloss Brett"
+    },
+    "description": {
+      "en": "A handcrafted castle board for Sir Worcestershire.",
+      "de": "Ein handgefertigtes Schloss Brett für Sir Worcestershire."
+    },
+    "sellValue": 0,
+    "buyValue": 0,
+    "isSellable": false
+  },
+  {
+    "id": "Item_Special_TurtleUpgrade01",
+    "prefabPath": "Resources/items/furniture/furniture_special_turtle/Item_Special_TurtleUpgrade01.prefab",
+    "category": "furniture_special_turtle",
+    "assetID": -216031981,
+    "name": {
+      "en": "Improved Turtle Shell Armor +1",
+      "de": "Verbesserte Schildkröten-Panzerung +1"
+    },
+    "description": {
+      "en": "Slow but sturdy wins the fight! Watch out, Spiky!",
+      "de": "Langsam, aber robust gewinnt jeden Kampf. Pass auf, stachelig!"
+    },
+    "sellValue": 15,
+    "buyValue": 18,
+    "isSellable": true
+  }
+]

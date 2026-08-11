@@ -1,0 +1,158 @@
+[
+  {
+    "id": "RubberDuck01",
+    "key": "Item_Collectable_RubberDuck01_Name",
+    "name": {
+      "en": "Rubberduck",
+      "de": "Gummiente"
+    },
+    "description": {
+      "en": "Just an ordinary squeaky rubber duck. It makes a high-pitched sound when you squeeze it.",
+      "de": "Eine ganz gewöhnliche Quietsche Ente. Sie macht einen schrillen Sound, wenn man sie drückt."
+    }
+  },
+  {
+    "id": "RubberDuck02",
+    "key": "Item_Collectable_RubberDuck02_Name",
+    "name": {
+      "en": "Furnox Duck",
+      "de": "Furnox Ente"
+    },
+    "description": {
+      "en": "Pure evil. A duck so evil that even the devil is afraid of it.",
+      "de": "Das pure Böse. Eine Ente so Böse das selbst der Teufel Angst vor ihr hat."
+    }
+  },
+  {
+    "id": "RubberDuck03",
+    "key": "Item_Collectable_RubberDuck03_Name",
+    "name": {
+      "en": "Purple Duck",
+      "de": "Lila Ente"
+    },
+    "description": {
+      "en": "A purple duck. What's the story behind it?",
+      "de": "Eine Lila Ente. Was hat es damit auf sich ?"
+    }
+  },
+  {
+    "id": "RubberDuck04",
+    "key": "Item_Collectable_RubberDuck04_Name",
+    "name": {
+      "en": "Luxury  Duck",
+      "de": "Luxus Ente"
+    },
+    "description": {
+      "en": "Bling bling! That's all this duck cares about.",
+      "de": "Bling Bling! Dies ist das einzige was diese Ente interessiert."
+    }
+  },
+  {
+    "id": "RubberDuck05",
+    "key": "Item_Collectable_RubberDuck05_Name",
+    "name": {
+      "en": "Gentleman Duck",
+      "de": "Gentleman Ente"
+    },
+    "description": {
+      "en": "A true old-school gentleman, always polite and courteous.",
+      "de": "Ein wahrer Gentleman der alten Schule, immer höflich und zuvorkommend."
+    }
+  },
+  {
+    "id": "RubberDuck06",
+    "key": "Item_Collectable_RubberDuck06_Name",
+    "name": {
+      "en": "Noble Duck",
+      "de": "Adlige Ente"
+    },
+    "description": {
+      "en": "The noblest of ducks, its beak lifted proudly toward the sky.",
+      "de": "Die edelste aller Enten, den Schnabel stolz zum Himmel gereckt."
+    }
+  },
+  {
+    "id": "RubberDuck07",
+    "key": "Item_Collectable_RubberDuck07_Name",
+    "name": {
+      "en": "Astronaut Duck",
+      "de": "Astronauten Ente"
+    },
+    "description": {
+      "en": "Not so lost in Space. Lightyears away. Discovering new species.",
+      "de": "Nicht ganz so verloren im Weltraum. Lichtjahre entfernt. Auf der Suche nach neuen Spezies."
+    }
+  },
+  {
+    "id": "RubberDuck08",
+    "key": "Item_Collectable_RubberDuck08_Name",
+    "name": {
+      "en": "The builder Duck",
+      "de": "Baumeisterente"
+    },
+    "description": {
+      "en": "Can we fix it? Yes, we can!",
+      "de": "Können wir das schaffen? Yo, wir schaffen das!"
+    }
+  },
+  {
+    "id": "RubberDuck09",
+    "key": "Item_Collectable_RubberDuck09_Name",
+    "name": {
+      "en": "Viking Duck",
+      "de": "Vikinger Ente"
+    },
+    "description": {
+      "en": "A Viking duck with a Nordic heart. Ready to move into Valhalla",
+      "de": "Eine Wikinger-Ente mit nordischem Herz. Bereit für den Einzug ins Valhalla."
+    }
+  },
+  {
+    "id": "RubberDuck10",
+    "key": "Item_Collectable_RubberDuck10_Name",
+    "name": {
+      "en": "Soldier Duck",
+      "de": "Soldaten Ente"
+    },
+    "description": {
+      "en": "The Soldier Duck, a loyal comrade. As brave as an entire army!",
+      "de": "Die Soldaten Ente, ein treuer Kamerad. Mutig wie ein ganzes Heer!"
+    }
+  },
+  {
+    "id": "RubberDuck11",
+    "key": "Item_Collectable_RubberDuck11_Name",
+    "name": {
+      "en": "Spikey Duck",
+      "de": "Stachel Ente"
+    },
+    "description": {
+      "en": "A very spikey duck. Don't keep it near your balloons.",
+      "de": "Eine sehr stachelige Ente. Halte sie nicht in der Nähe deiner Luftballons"
+    }
+  },
+  {
+    "id": "RubberDuck12",
+    "key": "Item_Collectable_RubberDuck12_Name",
+    "name": {
+      "en": "Lava Duck",
+      "de": "Lava Ente"
+    },
+    "description": {
+      "en": "Caution HOT ! May errupt pretty fast, hold with caution !",
+      "de": "Achtung, HEISS! Kann ziemlich schnell ausbrechen, bitte vorsichtig halten!"
+    }
+  },
+  {
+    "id": "RubberDuck13",
+    "key": "Item_Collectable_RubberDuck13_Name",
+    "name": {
+      "en": "Crystal Duck",
+      "de": "Kristall Ente"
+    },
+    "description": {
+      "en": "A sparkling crystal duck. Beautiful, yet very fragile.",
+      "de": "Eine funkelnde Kristall Ente. Wunderschön doch sehr fragil."
+    }
+  }
+]

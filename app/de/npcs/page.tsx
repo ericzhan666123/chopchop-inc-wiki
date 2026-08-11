@@ -1,0 +1,1 @@
+import {CollectionPage} from "@/components/pages";import {pageMetadata} from "@/lib/metadata";export const metadata=pageMetadata("NPCs","Charaktere in Chop Chop Inc.","de","/npcs");export default function Page(){return <CollectionPage kind="npcs" locale="de"/>}

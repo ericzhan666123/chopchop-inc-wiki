@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Birch",
+    "key": "WorldObject_Tree_Birch_Name",
+    "name": {
+      "en": "Birch",
+      "de": "Birke"
+    },
+    "description": {
+      "en": "Grab an axe and show that birch tree who's boss!",
+      "de": "Schnapp dir eine Axt und zeig dieser Birke, wer hier das Sagen hat.!"
+    }
+  },
+  {
+    "id": "Apple",
+    "key": "WorldObject_Tree_Apple_Name",
+    "name": {
+      "en": "Appletree",
+      "de": "Apfelbaum"
+    },
+    "description": {
+      "en": "Grab an axe and show that apple tree who's charge around here!",
+      "de": "Schnapp dir eine Axt und zeig diesem Apfelbaum, wo der Frosch die Locken hat!"
+    }
+  },
+  {
+    "id": "Stone",
+    "key": "WorldObject_Tree_Stone_Name",
+    "name": {
+      "en": "Stonetree",
+      "de": "Steinbaum"
+    },
+    "description": null
+  },
+  {
+    "id": "Walnut",
+    "key": "WorldObject_Tree_Walnut_Name",
+    "name": {
+      "en": "Walnut tree",
+      "de": "Walnußbaum"
+    },
+    "description": null
+  },
+  {
+    "id": "Metal",
+    "key": "WorldObject_Tree_Metal_Name",
+    "name": {
+      "en": "Metal tree",
+      "de": "Metallbaum"
+    },
+    "description": null
+  },
+  {
+    "id": "Electronic",
+    "key": "WorldObject_Tree_Electronic_Name",
+    "name": {
+      "en": "Electronic Tree",
+      "de": "Elektronikbaum"
+    },
+    "description": null
+  },
+  {
+    "id": "Palm",
+    "key": "WorldObject_Tree_Palm_Name",
+    "name": {
+      "en": "Palmtree",
+      "de": "Palme"
+    },
+    "description": null
+  },
+  {
+    "id": "Crystal",
+    "key": "WorldObject_Tree_Crystal_Name",
+    "name": {
+      "en": "Crystal Tree",
+      "de": "Kristall Baum"
+    },
+    "description": null
+  }
+]

@@ -1,0 +1,1 @@
+import {IndexPage} from "@/components/pages";import {pageMetadata} from "@/lib/metadata";export const metadata=pageMetadata("Gegenstände","Gegenstände und ihre Rezeptbeziehungen in Chop Chop Inc.","de","/items");export default function Page(){return <IndexPage kind="items" locale="de"/>}
