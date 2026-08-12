@@ -1,0 +1,1 @@
+import{UpdatesPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. Updates & Patchnotes","Aktuelle Patchnotes mit kurzen Auszügen und Links zu den offiziellen Steam-Beiträgen.","de","/updates");export default function Page(){return <UpdatesPage locale="de"/>}

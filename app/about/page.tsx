@@ -1,0 +1,1 @@
+import{LegalPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("About - Chop Chop Inc. Wiki","About this unofficial fan wiki and its data sources.","en","/about");export default function Page(){return <LegalPage locale="en" type="about"/>}

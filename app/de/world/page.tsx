@@ -1,0 +1,1 @@
+import{HubPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. Welt","Bäume, Gummienten, NPCs und Zielgruppen.","de","/world");export default function Page(){return <HubPage locale="de" hub="world"/>}

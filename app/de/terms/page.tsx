@@ -1,0 +1,1 @@
+import{LegalPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Nutzungsbedingungen - Chop Chop Inc. Wiki","Bedingungen für die Nutzung dieses inoffiziellen Fan-Wikis.","de","/terms");export default function Page(){return <LegalPage locale="de" type="terms"/>}

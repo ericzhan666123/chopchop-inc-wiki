@@ -1,0 +1,104 @@
+{
+  "fetchedAt": "2026-08-11T12:58:43.793Z",
+  "updates": [
+    {
+      "gid": "1840310314353469",
+      "slug": "hotfix-4",
+      "title": "Hotfix #4",
+      "date": "2026-08-11",
+      "excerpt": "- Doubled the auto tree harvester speed - Metal Ingots costs reduced from 2 metal wood to 1 metal wood - Autosave no longers triggers while UI is active or during a minigame - Added a prompt before…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840310314353469",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1840310314346149",
+      "slug": "hotfix-3",
+      "title": "Hotfix #3",
+      "date": "2026-08-07",
+      "excerpt": "- fixed a possible softlock after building the cannon foundation",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840310314346149",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1840310314345725",
+      "slug": "hotfix-2",
+      "title": "Hotfix #2",
+      "date": "2026-08-07",
+      "excerpt": "- added frame limiting option - removed firewood minigame - fixed edge-case where tutorial messages would stay on screen while saving during the on-screen message",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840310314345725",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1840310314345384",
+      "slug": "hotfix-1",
+      "title": "Hotfix #1",
+      "date": "2026-08-07",
+      "excerpt": "- it is now possible to enable/disable GPU Occlusion Culling (possible fix for Intel iGPU glitch) - fixed Load Button in Mainmenu",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840310314345384",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1840310314344951",
+      "slug": "chop-chop-inc-is-out-now",
+      "title": "Chop Chop Inc. is OUT NOW! 🎉",
+      "date": "2026-08-07",
+      "excerpt": "It's finally happening: Chop Chop Inc. is available now!Honestly, when we announced the game four months ago, we had absolutely no idea what to expect. Going from zero to more than 165,000 wishlists…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840310314344951",
+      "author": "roka_adrian"
+    },
+    {
+      "gid": "1839676055894904",
+      "slug": "only-5-days-until-you-build-your-furniture-empire",
+      "title": "Only 5 Days Until You Build Your Furniture Empire!",
+      "date": "2026-08-03",
+      "excerpt": "The wait is almost over!In just 5 days, you'll finally be able to quit your boring corporate job, grab your trusty axe and build the weirdest furniture empire the world has ever seen. Oh... and…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1839676055894904",
+      "author": "roka_adrian"
+    },
+    {
+      "gid": "1839041357032150",
+      "slug": "100-000-wishlists",
+      "title": "100,000 Wishlists!",
+      "date": "2026-07-25",
+      "excerpt": "Huge Milestone Reached: 100,000 Wishlists!100,000 people looked at a game about chopping down trees and crafting furniture out of it... and thought: \"Yep. That's exactly what my life is missing.\" We…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1839041357032150",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1838407329266057",
+      "slug": "release-date-announcement",
+      "title": "Release Date Announcement",
+      "date": "2026-07-20",
+      "excerpt": "Chop Chop Inc. Launches on August 7!Soon you will be able to chop down a completely reasonable number of trees, turn them into increasingly questionable furniture, sell everything for profit,…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1838407329266057",
+      "author": "roka_adrian"
+    },
+    {
+      "gid": "1835871199309746",
+      "slug": "75k-wishlists-demo",
+      "title": "75k Wishlists + Demo",
+      "date": "2026-06-20",
+      "excerpt": "New Milestone Reached:75.000 WishlistsIf someone had told us two months ago that we'd have 75k Wishlists, I wouldn't have taken them seriously. Thanks for that! ❤️A few weeks ago, we released a demo…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1835871199309746",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1833334318568844",
+      "slug": "demo-out-now",
+      "title": "Demo - Out Now!",
+      "date": "2026-05-21",
+      "excerpt": "Chop Chop Inc. Demo Out Now! The wait is over, the Chop Chop Inc. demo is officially live on Steam! You can now jump into the world of chaotic furniture production, chop down trees, craft ridiculous…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1833334318568844",
+      "author": "roka_adrian"
+    },
+    {
+      "gid": "1829528821309921",
+      "slug": "30-000-wishlists-in-about-2-weeks",
+      "title": "30.000 Wishlists in about 2 Weeks",
+      "date": "2026-04-10",
+      "excerpt": "We've just hit our first major milestone in only two weeks: 30.000 wishlists! 😍You people are insane! 🫠We're incredibly grateful for the amazing support and positive feedback we've received so far…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1829528821309921",
+      "author": "rvL_eXile"
+    }
+  ]
+}

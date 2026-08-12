@@ -1,0 +1,1 @@
+import{HubPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. World","Trees, rubber ducks, NPCs and customer audiences.","en","/world");export default function Page(){return <HubPage locale="en" hub="world"/>}

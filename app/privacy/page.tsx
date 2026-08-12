@@ -1,0 +1,1 @@
+import{LegalPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Privacy Policy - Chop Chop Inc. Wiki","Privacy information: no analytics, cookies, accounts, or collection of personal information.","en","/privacy");export default function Page(){return <LegalPage locale="en" type="privacy"/>}

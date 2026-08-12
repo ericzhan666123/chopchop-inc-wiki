@@ -1,0 +1,1 @@
+import{HubPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. Game Info","Achievements, patch notes and system requirements.","en","/game-info");export default function Page(){return <HubPage locale="en" hub="game-info"/>}

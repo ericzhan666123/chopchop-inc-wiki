@@ -1,0 +1,1 @@
+import{HubPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. Datenbank","Rezepte, Kategorien und Gegenstände aus den Spieldateien.","de","/database");export default function Page(){return <HubPage locale="de" hub="database"/>}

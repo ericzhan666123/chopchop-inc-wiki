@@ -1,0 +1,1 @@
+import{LegalPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Terms of Service - Chop Chop Inc. Wiki","Terms for using this unofficial fan wiki.","en","/terms");export default function Page(){return <LegalPage locale="en" type="terms"/>}

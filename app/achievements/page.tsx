@@ -1,0 +1,1 @@
+import{AchievementsPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. Achievements - All 21 with Global Rarity","All 21 Steam achievements with descriptions and global unlock rarity.","en","/achievements");export default function Page(){return <AchievementsPage locale="en"/>}

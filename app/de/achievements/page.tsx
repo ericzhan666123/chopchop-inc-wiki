@@ -1,0 +1,1 @@
+import{AchievementsPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. Errungenschaften - Alle 21 mit Seltenheit","Alle 21 Steam-Errungenschaften mit globalen Freischaltraten.","de","/achievements");export default function Page(){return <AchievementsPage locale="de"/>}

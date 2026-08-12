@@ -1,0 +1,1 @@
+import{UpdatesPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. Patch Notes & Updates - Latest Version","Recent Chop Chop Inc. patch notes with short excerpts and links to the official Steam posts.","en","/updates");export default function Page(){return <UpdatesPage locale="en"/>}

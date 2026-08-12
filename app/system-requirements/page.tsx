@@ -1,0 +1,1 @@
+import{RequirementsPage}from"@/components/InfoPages";import{pageMetadata}from"@/lib/metadata";export const metadata=pageMetadata("Chop Chop Inc. System Requirements","Minimum PC specifications for Chop Chop Inc., including the required SSD.","en","/system-requirements");export default function Page(){return <RequirementsPage locale="en"/>}
