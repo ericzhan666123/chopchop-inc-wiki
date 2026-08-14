@@ -1,6 +1,24 @@
 {
-  "fetchedAt": "2026-08-13T04:50:37.106Z",
+  "fetchedAt": "2026-08-14T04:47:50.738Z",
   "updates": [
+    {
+      "gid": "1840944183776707",
+      "slug": "hotfix-6",
+      "title": "Hotfix #6",
+      "date": "2026-08-13",
+      "excerpt": "- fixed visual bug in the shop UI , which was causing the product description to be displayed incorrectly.",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840944183776707",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1840944183776203",
+      "slug": "hotfix-5",
+      "title": "Hotfix #5",
+      "date": "2026-08-13",
+      "excerpt": "- Fixed visual glitches in the UI - Fixed a savegame load error. (Savegame wanted to check for current player item, but playerService did not yet know about player)",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840944183776203",
+      "author": "rvL_eXile"
+    },
     {
       "gid": "1840944183773719",
       "slug": "hotfixes-deluxe-bundle-and-almost-4700-players",
