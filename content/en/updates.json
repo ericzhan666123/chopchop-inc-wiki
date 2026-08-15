@@ -1,6 +1,33 @@
 {
-  "fetchedAt": "2026-08-14T04:47:50.738Z",
+  "fetchedAt": "2026-08-15T03:38:02.717Z",
   "updates": [
+    {
+      "gid": "1840944183779871",
+      "slug": "hotfix-9",
+      "title": "Hotfix #9",
+      "date": "2026-08-14",
+      "excerpt": "Fixed: Chester, the old sticky-fingered menace, will no longer steal the item from the Golden Chest. :)",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840944183779871",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1840944183779466",
+      "slug": "hotfix-8",
+      "title": "Hotfix #8",
+      "date": "2026-08-14",
+      "excerpt": "Fixed multi-truck-crate-spawning edge case when buying items from the shop. To fix affected savegames, please restart Steam / download the patch and buy an item from shop. Then wait for the truck to…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840944183779466",
+      "author": "rvL_eXile"
+    },
+    {
+      "gid": "1840944183779188",
+      "slug": "hotfix-7",
+      "title": "Hotfix #7",
+      "date": "2026-08-14",
+      "excerpt": "Savegame fix for broken prefabID \"371857150\". Affected savegames can now be loaded again.Fixed: The truck would sometimes not spawn after ordering something at the shop.Fixed TinFoil nightstand…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1840944183779188",
+      "author": "rvL_eXile"
+    },
     {
       "gid": "1840944183776707",
       "slug": "hotfix-6",
