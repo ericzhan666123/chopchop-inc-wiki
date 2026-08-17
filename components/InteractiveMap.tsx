@@ -1,14 +1,15 @@
 "use client";
 
-import { useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
+import { useEffect, useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
 import type { Locale } from "@/lib/types";
-import { categoryLabel, mapBounds, mapCategorySlugs, mappedPlaceNames, markerCategory, markerName, terrainMeta, type MapCategorySlug, type MapMarker, type PlaceName } from "@/lib/world-map";
+import { categoryLabel, mapBounds, mapCategorySlugs, mapMarkers, mappedPlaceNames, markerCategory, markerName, terrainMeta, type MapCategorySlug, type MapMarker, type PlaceName } from "@/lib/world-map";
 
 const OVERWORLD_WIDTH = 1024;
 const OVERWORLD_HEIGHT = 727;
 const DUNGEON_WIDTH = 1024;
 const PAD = 34;
-const defaultCategories: MapCategorySlug[] = ["landmarks", "rubber-ducks"];
+const defaultCategories: MapCategorySlug[] = ["landmarks", "rubber-ducks", "trees-birch"];
+const categoryCounts = Object.fromEntries(mapCategorySlugs.map((category) => [category, mapMarkers.filter((marker) => markerCategory(marker) === category).length])) as Record<MapCategorySlug, number>;
 const treeColors: Record<string, string> = { birch: "#d8e3d5", apple: "#d95745", stone: "#92989b", walnut: "#9a633d", metal: "#aab8c4", electronic: "#44c8b0", palm: "#e1c35f", crystal: "#a985dc" };
 const treePath = "M0-11 8-2H4l6 7H3v6h-6V5h-7l6-7h-4z";
 
@@ -64,6 +65,10 @@ export function InteractiveMap({ markers, locale, lockedCategory }: { markers: M
   const dungeonHeight = DUNGEON_WIDTH * ((bounds.maxZ - bounds.minZ) / (bounds.maxX - bounds.minX));
   const canvasWidth = layer === "overworld" ? OVERWORLD_WIDTH : DUNGEON_WIDTH;
   const canvasHeight = layer === "overworld" ? OVERWORLD_HEIGHT : dungeonHeight;
+
+  useEffect(() => {
+    if (!lockedCategory && window.matchMedia("(max-width: 720px)").matches) setEnabled((current) => current.filter((category) => category !== "trees-birch"));
+  }, [lockedCategory]);
 
   const filtered = useMemo(() => markers.filter((marker) => marker.layer === layer && enabled.includes(markerCategory(marker) as MapCategorySlug)), [markers, layer, enabled]);
   const visible = useMemo(() => filtered.filter((marker) => layer !== "overworld" || inTerrainBounds(marker)), [filtered, layer]);
@@ -181,7 +186,9 @@ function FilterList({ categories, enabled, locale, showPlaces, onToggle, onToggl
 
 function MapLegend({ locale }: { locale: Locale }) {
   const de = locale === "de";
-  return <details className="map-symbol-legend"><summary>{de ? "Legende" : "Legend"}</summary><div className="map-legend-content"><div><strong>{de ? "Baumfarben" : "Tree colors"}</strong>{mapCategorySlugs.filter((category) => category.startsWith("trees-")).map((category) => <span key={category}><i style={{ background: treeColors[category.slice(6)] }}/>{categoryLabel(category, locale, false)}</span>)}</div><div><strong>{de ? "Höhe der Marker" : "Marker elevation"}</strong><span>{de ? "Kühl: unter dem Camp" : "Cool: below camp"}</span><div className="elevation-scale"/><span>{de ? "Warm: über dem Camp" : "Warm: above camp"}</span><span>{de ? "Der farbige Rand zeigt die relative Höhe." : "The colored outline shows relative elevation."}</span></div><div><strong>{de ? "Symbole" : "Symbols"}</strong><span>{de ? "Ortsnamen: große beschriftete Felder" : "Place names: large labeled boxes"}</span><span>{de ? "Durchgestrichener Teleporter: defekt" : "Crossed teleporter: broken"}</span></div></div></details>;
+  const treeCategories = mapCategorySlugs.filter((category) => category.startsWith("trees-"));
+  const symbolCategories = mapCategorySlugs.filter((category) => !category.startsWith("trees-"));
+  return <details className="map-symbol-legend"><summary>{de ? "Legende" : "Legend"}</summary><div className="map-legend-content"><div><strong>{de ? "Baumfarben" : "Tree colors"}</strong>{treeCategories.map((category) => <span key={category}><i style={{ background: treeColors[category.slice(6)] }}/>{categoryLabel(category, locale, false)} ({categoryCounts[category]})</span>)}</div><div><strong>{de ? "Höhe der Marker" : "Marker elevation"}</strong><span>{de ? "Kühl: unter dem Camp" : "Cool: below camp"}</span><div className="elevation-scale"/><span>{de ? "Warm: über dem Camp" : "Warm: above camp"}</span><span>{de ? "Der farbige Rand zeigt die relative Höhe." : "The colored outline shows relative elevation."}</span></div><div><strong>{de ? "Symbole" : "Symbols"}</strong>{symbolCategories.map((category) => <span key={category}>{categoryLabel(category, locale, false)} ({categoryCounts[category]})</span>)}<span>{de ? "Ortsnamen: große beschriftete Felder" : "Place names: large labeled boxes"}</span><span>{de ? "Durchgestrichener Teleporter: defekt" : "Crossed teleporter: broken"}</span></div></div></details>;
 }
 
 function OutsideBounds({ locale, markers }: { locale: Locale; markers: MapMarker[] }) {
