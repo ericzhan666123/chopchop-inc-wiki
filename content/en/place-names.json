@@ -1,0 +1,221 @@
+{
+  "places": [
+    {
+      "id": "hamster-home",
+      "name": { "en": "Hamster Home", "de": "Zuhause der Hamster" },
+      "locaKey": "WorldObject_Discover_HamsterHome",
+      "triggerObject": "Trigger_LocationDiscovered_HamsterHome",
+      "hierarchyPath": "_Trigger/Trigger_LocationDiscovered_HamsterHome",
+      "layer": "overworld",
+      "x": 382.17,
+      "y": 69.481186,
+      "z": 367.22,
+      "matchConfidence": "confirmed"
+    },
+    {
+      "id": "genovatech-lab",
+      "name": { "en": "Genovatech Lab", "de": "Genovatech Labor" },
+      "locaKey": "WorldObject_Discover_GenovatechLab",
+      "triggerObject": "Trigger_GenovatechLabDiscovered",
+      "hierarchyPath": "_Trigger/Trigger_GenovatechLabDiscovered",
+      "layer": "overworld",
+      "x": 406,
+      "y": 130.08,
+      "z": 270.76,
+      "matchConfidence": "confirmed"
+    },
+    {
+      "id": "broken-windmill",
+      "name": { "en": "Broken windmill", "de": "Zerstörte Windmühle" },
+      "locaKey": "WorldObject_Discover_brokenWindmill",
+      "triggerObject": "Trigger_OldWindmillDiscovered",
+      "hierarchyPath": "_Trigger/Trigger_OldWindmillDiscovered",
+      "layer": "overworld",
+      "x": 370.67,
+      "y": 102.01,
+      "z": 223.66,
+      "matchConfidence": "confirmed"
+    },
+    {
+      "id": "broken-bridge-mechanism",
+      "name": { "en": "Broken bridge mechanism", "de": "Zerstörter Brückenmechanismus" },
+      "locaKey": "WorldObject_Discover_BrokenBridgeLever",
+      "triggerObject": "Trigger_CaveBridgeDiscovered",
+      "hierarchyPath": "_Trigger/Trigger_CaveBridgeDiscovered",
+      "layer": "overworld",
+      "x": 288.71,
+      "y": 84.17,
+      "z": 369.49,
+      "matchConfidence": "confirmed"
+    },
+    {
+      "id": "corrupted-fields",
+      "name": { "en": "Corrupted fields", "de": "Verderbte Felder" },
+      "locaKey": "WorldObject_Discover_CorruptedFields",
+      "triggerObject": "Trigger_LocationDiscovered_ElectroTree",
+      "hierarchyPath": "_Trigger/Trigger_LocationDiscovered_ElectroTree",
+      "layer": "overworld",
+      "x": 283.06,
+      "y": 116.22,
+      "z": 190.34,
+      "matchConfidence": "confirmed"
+    },
+    {
+      "id": "whisper-cave",
+      "name": { "en": "The Whisper Cave", "de": "Die Flüsterhöhle" },
+      "locaKey": "WorldObject_Discover_Cave",
+      "triggerObject": "Trigger_LocationDiscovered_CaveArea",
+      "hierarchyPath": "_Trigger/Trigger_LocationDiscovered_CaveArea",
+      "layer": "overworld",
+      "x": 284.47,
+      "y": 102.30349,
+      "z": 316.79,
+      "matchConfidence": "confirmed"
+    },
+    {
+      "id": "bank-towers",
+      "name": { "en": "Bank Towers", "de": "Bankentürme" },
+      "locaKey": "WorldObject_City_Banks_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "central-tower",
+      "name": { "en": "Central Tower", "de": "Verwaltungsturm" },
+      "locaKey": "WorldObject_City_MainTower_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "hotels",
+      "name": { "en": "Hotels", "de": "Hotels" },
+      "locaKey": "WorldObject_City_Hotels_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "residential-buildings",
+      "name": { "en": "Residential Buildings", "de": "Wohngebäude" },
+      "locaKey": "WorldObject_City_ResidentialBuildings_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "television-tower",
+      "name": { "en": "Television Tower", "de": "Fernsehturm" },
+      "locaKey": "WorldObject_City_TelevisionTower_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "botanical-garden",
+      "name": { "en": "Botanical Garden", "de": "Botanischer Garten" },
+      "locaKey": "WorldObject_City_BotanicalGarden_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "digital-advertisement-signs",
+      "name": { "en": "Digital Advertisement Signs", "de": "Digitale Werbeschilder" },
+      "locaKey": "WorldObject_City_AdvertisementSigns_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "wooden-holly-hills-letters",
+      "name": { "en": "Wooden Holly Hills Letters", "de": "Wooden Holly Namensschriftzug" },
+      "locaKey": "WorldObject_City_CityNameLetters_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null
+    },
+    {
+      "id": "hot-air-balloons",
+      "name": { "en": "Hot Air Balloons", "de": "Heißluftballons" },
+      "locaKey": "WorldObject_City_HotAirBalloons_Name",
+      "triggerObject": null,
+      "hierarchyPath": null,
+      "layer": "overworld",
+      "x": null,
+      "y": null,
+      "z": null,
+      "sceneObjects": [
+        { "name": "a_prop_HotairBallon01", "hierarchyPath": "City/a_prop_HotairBallon01", "x": 24.39999, "y": 124.999998, "z": 314 },
+        { "name": "a_prop_HotairBallon02", "hierarchyPath": "City/a_prop_HotairBallon02", "x": 26.39999, "y": 138.9, "z": 379.4 },
+        { "name": "a_prop_HotairBallon03", "hierarchyPath": "City/a_prop_HotairBallon03", "x": -18.20002, "y": 155, "z": 362.799994 },
+        { "name": "a_prop_HotairBallon05", "hierarchyPath": "City/a_prop_HotairBallon05", "x": 250.899988, "y": 159.000002, "z": 775 }
+      ]
+    }
+  ],
+  "unmatchedTriggers": [
+    {
+      "triggerObject": "Trigger_LocationDiscovered_WalnutTree",
+      "hierarchyPath": "_Trigger/Trigger_LocationDiscovered_WalnutTree",
+      "layer": "overworld",
+      "x": 328.83,
+      "y": 102.8186,
+      "z": 231.8229,
+      "reason": "Its UI prefab uses the generic WorldObject_Discover_newTree and WorldObject_Discover_Unlocked text, not a place-name key."
+    },
+    {
+      "triggerObject": "Trigger_LocationDiscovered_MetalTree",
+      "hierarchyPath": "_Trigger/Trigger_LocationDiscovered_MetalTree",
+      "layer": "overworld",
+      "x": 381.86,
+      "y": 49.174934,
+      "z": 367.43,
+      "reason": "Its UI prefab uses the generic WorldObject_Discover_newTree and WorldObject_Discover_Unlocked text, not a place-name key."
+    }
+  ],
+  "unmatchedLocaKeys": [
+    { "locaKey": "WorldObject_Discover_Location", "name": { "en": "New Location Discovered", "de": "Neues Gebiet entdeckt" } },
+    { "locaKey": "WorldObject_Discover_Secret", "name": { "en": "Secret Discovered", "de": "Geheimnis entdeckt" } },
+    { "locaKey": "WorldObject_Discover_ChickenKing", "name": { "en": "Hail the Chicken King", "de": "Heil dem Hühnerkönig" } },
+    { "locaKey": "WorldObject_Discover_Explorer", "name": { "en": "The one and only explorer !", "de": "Der einzig wahre Entdecker!" } },
+    { "locaKey": "WorldObject_Discover_MilestoneReached", "name": { "en": "Milestone reached", "de": "Meilenstein erreicht" } },
+    { "locaKey": "WorldObject_Discover_HomeSweetHome", "name": { "en": "Home Sweet Home", "de": "Home Sweet Home" } },
+    { "locaKey": "WorldObject_Discover_AahzvilleForest", "name": { "en": "Aahzville Forest", "de": "Aahzville Forest" } },
+    { "locaKey": "WorldObject_Discover_WalkOnWater", "name": { "en": "You can now walk on water!", "de": "Du kannst nun über Wasser laufen!" } },
+    { "locaKey": "WorldObject_Discover_newTree", "name": { "en": "New tree discovered!", "de": "Neue Baumart entdeckt!" } },
+    { "locaKey": "WorldObject_Discover_Unlocked", "name": { "en": "Unlocked", "de": "Freigeschaltet" } },
+    { "locaKey": "WorldObject_Discover_newFurniture", "name": { "en": "New Furniture", "de": "Neue Möbel" } },
+    { "locaKey": "WorldObject_Discover_WalkOnLava", "name": { "en": "You can now walk on lava!", "de": "Du kannst nun über Lava laufen!" } },
+    { "locaKey": "WorldObject_Discover_HamsterTech", "name": { "en": "Hamstertech", "de": "Hamstertech" } },
+    { "locaKey": "WorldObject_Discover_Carving", "name": { "en": "Bobers Carving Artworks", "de": "Bobers Schnitzkunst" } },
+    { "locaKey": "WorldObject_Discover_Furnox", "name": { "en": "Furnox Headquarter", "de": "Furnox Hauptsitz" } },
+    { "locaKey": "WorldObject_Discover_DaysAtTheOffice", "name": { "en": "Day 2126 at the office", "de": "Tag 2126 im Büro" } },
+    { "locaKey": "WorldObject_Discover_newTargetAudiences", "name": { "en": "New Target Audience and Missions", "de": "Neue Zielgruppe und Missionen" } },
+    { "locaKey": "WorldObject_Discover_HouseUpgrade", "name": { "en": "House upgrade unlocked", "de": "Haus Upgrade freigeschaltet" } }
+  ]
+}

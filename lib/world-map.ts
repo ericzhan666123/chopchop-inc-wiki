@@ -1,4 +1,6 @@
 import worldMapJson from "@/content/en/world-map.json";
+import terrainMetaJson from "@/content/en/terrain-meta.json";
+import placeNamesJson from "@/content/en/place-names.json";
 import { trees } from "./content";
 import type { Locale } from "./types";
 
@@ -14,10 +16,26 @@ export type MapMarker = {
   y: number;
   z: number;
   elevationRelativeToCamp: number;
+  status?: "active" | "broken";
+  area?: string;
+};
+
+export type PlaceName = {
+  id: string;
+  name: Record<Locale, string>;
+  locaKey: string;
+  triggerObject: string | null;
+  hierarchyPath: string | null;
+  layer: MapLayer;
+  x: number | null;
+  y: number | null;
+  z: number | null;
 };
 
 export const mapMarkers = worldMapJson.markers as MapMarker[];
 export const mapBounds = worldMapJson.meta.bounds;
+export const terrainMeta = terrainMetaJson;
+export const mappedPlaceNames = (placeNamesJson.places as PlaceName[]).filter((place) => place.layer === "overworld" && place.x !== null && place.y !== null && place.z !== null);
 
 export const mapCategorySlugs = [
   "trees-birch", "trees-apple", "trees-stone", "trees-walnut",

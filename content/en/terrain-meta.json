@@ -1,0 +1,51 @@
+{
+  "cropWorldMinX": 100,
+  "cropWorldMaxX": 600,
+  "cropWorldMinZ": 75,
+  "cropWorldMaxZ": 430,
+  "imageWidth": 1024,
+  "imageHeight": 727,
+  "yAxisDirection": "Image Y increases downward while world Z decreases: top edge is Z=430 and bottom edge is Z=75.",
+  "minHeight": 9.997711181640625,
+  "maxHeight": 106.66056060791016,
+  "colorRamp": "percentile",
+  "waterLevel": null,
+  "waterObjects": [
+    {
+      "name": "Water",
+      "x": 329.96,
+      "y": 99.12,
+      "z": 178.43
+    },
+    {
+      "name": "Water",
+      "x": 318.5331,
+      "y": 99.73,
+      "z": 149.2771
+    },
+    {
+      "name": "Water01",
+      "x": 391.2844,
+      "y": 99.75,
+      "z": 249.8277
+    },
+    {
+      "name": "Water02",
+      "x": 335.56,
+      "y": 111.21,
+      "z": 135.83
+    },
+    {
+      "name": "Water03",
+      "x": 331.17,
+      "y": 127.85,
+      "z": 65.76
+    },
+    {
+      "name": "waterPlane (3)",
+      "x": 74.6116,
+      "y": 62.52,
+      "z": 205.53
+    }
+  ]
+}
