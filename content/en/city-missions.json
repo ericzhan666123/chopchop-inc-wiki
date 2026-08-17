@@ -1,0 +1,602 @@
+{
+  "groups": [
+    {
+      "targetAudience": "City Progression",
+      "missions": [
+        {
+          "key": "Mission_CityMission_ParkPicnicArea",
+          "text": null,
+          "name": {
+            "en": "Green stains",
+            "de": "Grüne Flecken"
+          },
+          "description": {
+            "en": "Visitors to the city park are complaining that they always have to sit on the ground, getting their clothes dirty in the process. Just recently, they even protested in front of city hall, they’re demanding proper seating.",
+            "de": "Besucher des Stadtparks beschweren sich, dass sie immer auf dem Boden sitzen müssen und sich dabei die Kleidung schmutzig machen. Erst vor Kurzem haben sie vor dem Rathaus demonstriert, sie wollen endlich Sitzgelegenheiten."
+          }
+        },
+        {
+          "key": "Mission_CityMission_ParkBenches",
+          "text": null,
+          "name": {
+            "en": "Bus stop benches",
+            "de": "Bänke für die Bushaltestelle"
+          },
+          "description": {
+            "en": "We are looking for someone to support a part of our perfectly thought out, five-year city wide seating strategy. Can you build some cheap benches for a bus stop?",
+            "de": "Wir suchen jemanden, der ein Teil unserer perfekt durchdachte, fünfjährige, stadtweite Strategie zur Sitzoptimierung unterstützt. Kannst du ein paar günstige Bänke für eine Bushaltestelle bauen?"
+          }
+        },
+        {
+          "key": "Mission_CityMission_PubBarStools",
+          "text": null,
+          "name": {
+            "en": "Adult bookclub opening",
+            "de": "Eröffnung des Buchclubs für Erwachsene"
+          },
+          "description": {
+            "en": "Our adult bookclub is ready to open, but we forgot stools, chairs and a table. The potential for different \"acrobatic\" reading positions is severely limited. Can you fix that before the club opens?",
+            "de": "Unser Buchclub für Erwachsene ist bereit zur Eröffnung, aber wir haben Hocker, Stühle und einen Tisch vergessen. Das Potenzial für verschiedene \"akrobatische\" Lesepositionen ist stark eingeschränkt. Kannst du uns helfen, bevor der Club öffnet?"
+          },
+          "timer": {
+            "en": "Deliver before the adult club opens (earn bonus) {current}",
+            "de": "Beliefere den Erwachsenenclub, bevor er öffnet (Bonuszahlung) {current}"
+          }
+        },
+        {
+          "key": "Mission_UnlockFurniture_SimpleFurniture",
+          "text": {
+            "en": "Unlock simple furniture",
+            "de": "Schalte Einfache Möbel frei"
+          }
+        },
+        {
+          "key": "Mission_UnlockFurniture_AdvancedFurniture",
+          "text": {
+            "en": "Unlock advanced furniture",
+            "de": "Schalte Fortgeschrittene Möbel frei"
+          }
+        },
+        {
+          "key": "Mission_UnlockFurniture_Toys",
+          "text": {
+            "en": "Unlock wooden toys",
+            "de": "Schalte Holzspielsachen frei"
+          }
+        },
+        {
+          "key": "Mission_UnlockFurniture_FitnessUtensils",
+          "text": {
+            "en": "Unlock fitness utensils",
+            "de": "Schalte Fitness Utensilien frei"
+          }
+        },
+        {
+          "key": "Mission_UnlockFurniture_HouseUtensils",
+          "text": {
+            "en": "Unlock house utensils",
+            "de": "Schalte Haus Utensilien frei"
+          }
+        },
+        {
+          "key": "Mission_UpgradeCity_MainTower",
+          "text": {
+            "en": "Upgrade central tower",
+            "de": "Upgrade Zentraler Turm"
+          }
+        },
+        {
+          "key": "Mission_CityMission_UpgradeMainTower",
+          "text": null,
+          "name": {
+            "en": "Central tower extension",
+            "de": "Ausbau des Verwaltungsturms"
+          },
+          "description": {
+            "en": "We plan to expand the central tower. It is time to catch up with the neighboring city! We need more floors! More presence! More ... aura!\nCan you build a CITY PROGRESSION TABLE and help us out with the missing building materials?",
+            "de": "Wir planen, den zentralen Turm auszubauen. Es ist an der Zeit, bautechnisch zur Nachbarstadt aufzuschließen! Wir brauchen mehr Stockwerke! Mehr Präsenz! Mehr ... Aura! Kannst du einen STADTFORTSCHRITTSTISCH bauen und uns mit den fehlenden Baumaterialien aushelfen?"
+          }
+        },
+        {
+          "key": "Mission_City_Title_AssembleCityCrafter",
+          "text": {
+            "en": "CITY CRAFTER",
+            "de": "STADTPLANUNGSTISCH"
+          }
+        },
+        {
+          "key": "Mission_City_AcceptCityAdminMission",
+          "text": {
+            "en": "Open the Mission Board and accept the City Administration mission",
+            "de": "Öffne das Mission Board und nimm die Mission der Stadtverwaltung an"
+          }
+        },
+        {
+          "key": "Mission_CityUpgrade_UnlockResidentialBuildings",
+          "text": {
+            "en": "Hello,\na new city project has been authorized!\nWe’re preparing to expand living space by constructing new residential buildings. Can you assist us by providing the necessary materials?",
+            "de": "Hallo,\nein neues Stadtprojekt wurde genehmigt!\nWir bereiten derzeit die Erweiterung des Wohnraums durch den Bau neuer Wohngebäude vor. Können Sie uns bei der Bereitstellung der benötigten Materialien unterstützen?"
+          }
+        },
+        {
+          "key": "Mission_City_OpenMissions",
+          "text": {
+            "en": "Open the mission menu <sprite name=\"ui_keyTab\"> and accept the city administration mission",
+            "de": "Öffne Missionen im Menü <sprite name=\"ui_keyTab\"> und nimm die Mission der Stadtverwaltung an."
+          }
+        },
+        {
+          "key": "Mission_CityUpgrade_UnlockTelevisionTower",
+          "text": {
+            "en": "Hello,\\na new city project has been authorized!\\nWe want to dumb down ... err ... i mean ... expand media presence in the city by building a television tower! Can you assist us by providing the necessary materials?",
+            "de": "Hallo,\\nein neues Bauprojekt wurde genehmigt!\\nWir wollen dümmere Bewohn ... ähm ich meinte ... wir wollen die Medienpräsenz in der Stadt ausbauen, indem wir einen Fernsehturm errichten! Können Sie uns bei der Bereitstellung der benötigten Materialien unterstützen?"
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "Industry",
+      "missions": [
+        {
+          "key": "Mission_Board_Industry_CutDownTrees",
+          "text": null,
+          "name": {
+            "en": "Trees are dangerous!",
+            "de": "Bäume sind brandgefährlich!"
+          },
+          "description": {
+            "en": "Cut down a few trees, there are just too many of these green things! We urgently need to keep them in check, otherwise they produce far too much oxygen... and pure oxygen explodes easily, as you surely know!",
+            "de": "Fälle ein paar Bäume, es gibt einfach viel zu viele von diesen grünen Dingern! Wir müssen sie dringend in Schacht halten, sonst produzieren die viel zu viel Sauerstoff ... und reiner Sauerstoff explodiert leicht, wie du ja sicher weißt!?"
+          }
+        },
+        {
+          "key": "Mission_Board_Industry_SellBirchTrunks",
+          "text": null,
+          "name": {
+            "en": "Bring on the wood!",
+            "de": "Her mit dem Holz!"
+          },
+          "description": {
+            "en": "We have a bet going on here to see who can make the most beautiful baseball bat. For that, we need raw materials! One tree trunk per baseball bat should be enough...",
+            "de": "Wir haben hier eine Wette am laufen, wer den schönsten Baseballschläger drechseln kann. Dafür brauchen wir Rohmaterial! Ein Baumstamm pro Baseballschläger sollte reichen ..."
+          }
+        },
+        {
+          "key": "Mission_Board_Industry_SellStoneWood",
+          "text": null,
+          "description": {
+            "en": "My buddies and I want to build a boat together and sail down Niagara Falls. It's supposed to be really beautiful there. To make sure it's stable enough, we thought we'd just build it out of stone! It'll last forever! Take that, Columbus! ... Anyways, can you get us the raw materials?",
+            "de": "Meine Freunde und ich wollen gemeinsam ein Boot bauen und die Niagarafälle hinunter segeln. Dort soll es wirklich wunderschön sein. Damit es stabil genug ist, haben wir uns überlegt, es einfach aus Stein zu bauen! Das hält ewig! Nimm das, Kolumbus! ... Wie auch immer, kannst du uns die Rohstoffe besorgen?"
+          },
+          "name": {
+            "en": "The \"Sailing Stones\"",
+            "de": "Die \"Sailing Stones\""
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "CityAdmin",
+      "missions": [
+        {
+          "key": "Mission_Board_CityAdmin_CutDownTrees",
+          "text": null,
+          "name": {
+            "en": "Unauthorized tree height",
+            "de": "Unzulässige Baumhöhe"
+          },
+          "description": {
+            "en": "We've noticed several trees exceeding the official acceptable height ratio. This is highly irregular! Please reduce them to a more bureaucratically pleasing height! Find the biggest birch trees and cut them down.",
+            "de": "Wir haben festgestellt, dass mehrere Bäume die offiziell zulässige Höhenquote überschreiten. Das ist nicht akzeptabel!\nBitte kürzen Sie die Bäume auf eine bürokratisch vertretbare Höhe! Mache die größten Birkenbäume ausfindig und fälle sie."
+          }
+        },
+        {
+          "key": "Mission_Board_CityAdmin_SellBenches",
+          "text": null,
+          "name": {
+            "en": "Public Bench Shortage Crisis!",
+            "de": "Öffentliche Parkbank Krise!"
+          },
+          "description": {
+            "en": "Our five year seating strategy has failed catastrophically. Citizens are leaning. LEANING!\n We require some regulation-compliant benches. Sand them aggressively. Splinters are anti-democratic.",
+            "de": "Unsere Fünfjahresstrategie für Sitzgelegenheiten ist katastrophal gescheitert. Die Bürger lehnen sich an. SIE LEHNEN SICH AN!\n Wir brauchen daher einige vorschriftsmäßige Bänke. Schleifen Sie sie gründlich ab. Splitter sind undemokratisch."
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "FitnessFreaks",
+      "missions": [
+        {
+          "key": "Mission_Board_FitnessFreaks_CutDownTrees",
+          "text": null,
+          "name": {
+            "en": "Rocky training",
+            "de": "Steiniges Training"
+          },
+          "description": {
+            "en": "We don't buy weights. We harvest them. Cut the heaviest trees you can find. If you can still lift afterward, you didn't try hard enough.",
+            "de": "Wir kaufen keine Gewichte. Wir ernten sie. Fälle die schwersten Bäume, die du finden kannst. Wenn du danach noch etwas hochheben kannst, hast du dich nicht genug angestrengt!"
+          }
+        },
+        {
+          "key": "Mission_Board_FitnessFreaks_SellTables",
+          "text": null,
+          "name": {
+            "en": "Protein Preparation Station",
+            "de": "Protein-Zubereitungsstation"
+          },
+          "description": {
+            "en": "We need handcrafted wooden meal prep tables. Plastic lowers testosterone. Science probably. Make them thick. Intimidatingly thick.",
+            "de": "Wir brauchen handgefertigte Holztische für die Essenszubereitung. Plastik senkt den Testosteronspiegel. Das ist wahrscheinlich wissenschaftlich belegt. Die Tische sollten dick sein. Eindrucksvoll dick."
+          }
+        },
+        {
+          "key": "Mission_Board_FitnessFreaks_Protein",
+          "text": null,
+          "name": {
+            "en": "Natural Protein",
+            "de": "Natürliches Protein"
+          },
+          "description": {
+            "en": "Hey, ditch the protein shake. I just discovered eggs are pure protein. I need them for my gains. Set me up with ten raw eggs and I will send you my protein shake. My taste buds need some variety.",
+            "de": "Hey, vergiss den Proteinshake. Kürzlich habe ich gehört, dass Eier extrem viel Protein enthalten. Genau das brauche ich für meine Gains. Gib mir zehn rohe Eier und ich gebe dir dafür meinen Proteinshake. Meine Geschmacksknospen brauchen mal Abwechslung."
+          }
+        },
+        {
+          "key": "Mission_Board_FitnessFreaks_Barbell",
+          "text": null,
+          "name": {
+            "en": "Cold Fingers",
+            "de": "Kalte Finger"
+          },
+          "description": {
+            "en": "Ugh, don’t tell my gym bros, but my hands are freezing from this metal barbell. I need something else, can you help me out with an alternative? Since I spend everything on my fitness career, I don’t have a lot of cash right now. But I know a lot of people in the community and can spread the word.",
+            "de": "Ugh, erzähls nicht meinen Gym Bros, aber meine Hände frieren an dieser Langhantel. Ich brauche etwas anderes, kannst du mir eine Alternative anbieten? Da ich alles in meine Fitnesskarriere stecke, habe ich gerade nicht viel Geld. Aber ich kenne viele Leute in meiner Community und dich bewerben."
+          }
+        },
+        {
+          "key": "Mission_Board_FitnessFreaks_Dumbbells",
+          "text": null,
+          "name": {
+            "en": "Daily gains",
+            "de": "Tägliche Gains"
+          },
+          "description": {
+            "en": "Hey, I just realized, every daily routine task is a missed workout opportunity. I need dumbbells to attach to my belongings, small ones for my toothbrush, medium for groceries and big ones to attach to my door.",
+            "de": "Hey, mir ist gerade klar geworden, dass jede alltägliche Routine eine verpasste Trainingschance ist. Ich brauche Hanteln, die ich an meine Sachen befestigen kann, kleine für meine Zahnbürste, mittlere für die Einkäufe und große für meine Tür."
+          }
+        },
+        {
+          "key": "Mission_Board_FitnessFreaks_WeightBench",
+          "text": null,
+          "name": {
+            "en": "Passive gains",
+            "de": "Passive Gains"
+          },
+          "description": {
+            "en": "I want to replace my bed with a weight bench. My subconscious will practice the right positions for the day while I sleep, it is genius.",
+            "de": "Ich will mein Bett durch eine Hantelbank ersetzen. Dadurch übt mein Unterbewusstsein beim Schlafen die richtigen Positionen für den Tag, genial."
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "MoneyBags",
+      "missions": [
+        {
+          "key": "Mission_Board_MoneyBags_SellWood",
+          "text": null,
+          "name": {
+            "en": "Wooden fuels from artisanal production",
+            "de": "Hölzerne Brennstoffe aus handwerklicher Produktion"
+          },
+          "description": {
+            "en": "We don’t burn regular wood. We only burn highly curated timber.\nHarvest something rare. Something that smells like inherited wealth.",
+            "de": "Wir verbrennen kein gewöhnliches Holz. Wir verbrennen ausschließlich kuratiertes Holz.\nBeschaffe uns etwas Seltenes. Etwas, das nach vererbtem Reichtum duftet."
+          }
+        },
+        {
+          "key": "Mission_Board_MoneyBags_SellDiningTable",
+          "text": null,
+          "name": {
+            "en": "Minimalist Excess",
+            "de": "Minimalistischer Überfluss"
+          },
+          "description": {
+            "en": "We require a handcrafted dining table that says, \"I respect nature\" but also \"I own three yachts and two private jets\". Make it rustic.",
+            "de": "Wir benötigen einen handgefertigten Esstisch, der aussagt: \"Ich respektiere die Natur\", aber auch \"Ich besitze drei Yachten und zwei Privat Jets\". Er soll rustikal sein."
+          }
+        },
+        {
+          "key": "Mission_Board_MoneyBags_CutDownTrees",
+          "text": null,
+          "description": {
+            "en": "My arch enemy and I have a bet going: he bets that you can't cut down a colorful bouquet of trees in no time. I bet you can. Don't let me down now, young friend!",
+            "de": "Mein Erzfeind und ich haben eine Wette abgeschlossen: Er wettet, dass du einen bunten Blumenstrauß aus Bäumen nicht in kürzester Zeit fällen kannst. Ich wette, du kannst es. Enttäusche mich jetzt nicht, junger Freund!"
+          },
+          "name": {
+            "en": "The tree-felling bet",
+            "de": "Die Baumfällwette"
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "Rascals",
+      "missions": [
+        {
+          "key": "Mission_Board_Rascals_SellPlanks",
+          "text": null,
+          "name": {
+            "en": "Operation: Maximum Creak",
+            "de": "Operation: Maximales Knarren"
+          },
+          "description": {
+            "en": "I want a floor that creaks dramatically when you walk on it. That way i can practice sneaking out of the house at night. Obviously, duh.",
+            "de": "Ich will einen Boden, der dramatisch knarrt, wenn man darauf läuft. Damit kann ich üben, mich nachts heimlich aus dem Haus zu schleichen. Was auch sonst?"
+          }
+        },
+        {
+          "key": "Mission_Board_Rascals_SellPlanks2",
+          "text": null,
+          "description": {
+            "en": "We're building a treehouse that's so incredibly cool that adults are forbidden to enter under penalty of death.\n For that, we need wood. Lots of wood. And maybe a sign that says \"No Parents.\"",
+            "de": "Wir bauen ein Baumhaus, das so unfassbar cool ist, dass es für Erwachsene unter Todesstrafe verboten ist reinzugehen.\n Dafür brauchen wir Holz. Viel Holz. Und vielleicht ein Schild mit der Aufschrift \"Keine Eltern\"."
+          },
+          "name": {
+            "en": "The ultimate treehouse fortress",
+            "de": "Das ultimative Baumhaus"
+          }
+        },
+        {
+          "key": "Mission_Board_Rascals_SellLucille",
+          "text": null,
+          "name": {
+            "en": "My annoying little sister",
+            "de": "Meine nervige kleine Schwester"
+          },
+          "description": {
+            "en": "Can you build me something to get rid of my annoying little sister? Please? Pretty please?",
+            "de": "Kannst du mir etwas bauen, um meine nervige kleine Schwester loszuwerden? Bitte? Bitte, bitte?"
+          }
+        },
+        {
+          "key": "Mission_Board_Rascals_RockingHorse",
+          "text": null,
+          "name": {
+            "en": "Rocking to glory",
+            "de": "Ruhmreiches Schaukeln"
+          },
+          "description": {
+            "en": "Hey! I’m gonna be a professional horse rider one day, but I can’t practice on real horses yet. Can you get me two rocking horses? I need to train!",
+            "de": "Hey! Ich werde eines Tages ein professioneller Reiter, aber ich kann noch nicht auf echten Pferden üben. Kannst du mir zwei Schaukelpferde besorgen? Ich muss trainieren!"
+          }
+        },
+        {
+          "key": "Mission_Board_Rascals_Plane",
+          "text": null,
+          "name": {
+            "en": "The Sturdy Skyfighter",
+            "de": "Das robuste Flugzeug"
+          },
+          "description": {
+            "en": "Every plastic plane I’ve had breaks after one flight. I need a real, sturdy plane this time, one that can survive my epic takeoffs and the LANDINGS. Can you help me?",
+            "de": "Jedes Plastikflugzeug, das ich hatte, geht nach einem Flug kaputt. Diesmal brauche ich ein richtiges, stabiles Flugzeug, das meine epischen Starts und die LANDUNGEN übersteht. Kannst du mir helfen?"
+          }
+        },
+        {
+          "key": "Mission_Board_Rascals_Sword",
+          "text": null,
+          "name": {
+            "en": "Nighttime Defender",
+            "de": "Traumwächter"
+          },
+          "description": {
+            "en": "Hey, can you forge me a wooden sword for bedtime, to defend against the monsters under the bed and in the closet?",
+            "de": "Hey, kannst du mir ein Holzschwert für die Schlafenszeit bauen, damit ich mich gegen die Monster unter dem Bett oder im Schrank verteidigen kann?"
+          }
+        },
+        {
+          "key": "Mission_Board_Rascals_Dam",
+          "text": null,
+          "name": {
+            "en": "The dam",
+            "de": "Der Damm"
+          },
+          "description": {
+            "en": "Me and my friends want to build the biggest dam ever and redirect the nearby river straight into our school. That way, we can have a few extra hours of free time while everyone’s busy cleaning up! Can you provide some additional materials?",
+            "de": "Meine Freunde und ich wollen den größten Damm aller Zeiten bauen und den nahegelegenen Fluss direkt in unsere Schule umleiten. So haben wir ein paar zusätzliche Stunden Freizeit, während alle mit Aufräumen beschäftigt sind! Kannst du uns ein paar zusätzliche Materialien besorgen?"
+          }
+        },
+        {
+          "key": "Mission_Board_Rascals_Train",
+          "text": null,
+          "name": {
+            "en": "Surprise for daddy",
+            "de": "Überraschung für Papa"
+          },
+          "description": {
+            "en": "Hey! Don't tell my dad, okay? I want to surprise him with a toy train. He says he’s too grown up for toys, but I think he's wrong.",
+            "de": "Hey! Verrate es meinem Papa nicht, okay? Ich will ihn mit einer Spielzeugeisenbahn überraschen. Er sagt, er ist zu erwachsen für Spielzeug, aber ich glaube, ich kann ihn überzeugen."
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "Survivalists",
+      "missions": [
+        {
+          "key": "Mission_Board_Survivalists_StorytellingFirewood",
+          "text": null,
+          "name": {
+            "en": "Storytelling Firewood",
+            "de": "Geschichtenfeuerholz"
+          },
+          "description": {
+            "en": "Got any firewood? We need proper moody barrel light for tonight’s \"Most Badass Survivor\" storytelling contest.",
+            "de": "Hast du Brennholz? Wir brauchen richtig stimmungsvolles Fass-Licht für den heutigen Storytelling-Wettbewerb \"Der härteste Überlebenskünstler\"."
+          }
+        },
+        {
+          "key": "Mission_Board_Survivalists_DinnerForTwo",
+          "text": null,
+          "name": {
+            "en": "Romantic dinner for two",
+            "de": "Romantisches Abendessen zu zweit"
+          },
+          "description": {
+            "en": "Psst, got some sticks, firewood and marshmallows? Planning a classy barrel candlelight dinner for my princess. Romantic, but survival ready.",
+            "de": "Psst, hast du ein paar Äste, Brennholz und Marshmallows? \n Ich plane ein schickes Candle-Light-Dinner am Fass für meine Prinzessin. Romantisch, aber überlebensbereit."
+          }
+        },
+        {
+          "key": "Mission_Board_Survivalists_PokyPoky",
+          "text": null,
+          "description": {
+            "en": "We need a fast, poky solution to hold back these creatures long enough for the group to regroup, resupply, and fortify.\n Do not underestimate them. Every second counts... I can already hear them coming.",
+            "de": "Wir brauchen eine schnelle, stachelige Lösung, um diese Kreaturen lange genug aufzuhalten, damit die Gruppe sich sammeln und Nachschub holen kann. Jede Sekunde zählt... ich höre sie schon kommen."
+          }
+        },
+        {
+          "key": "Mission_Board_Survivalists_Reheat",
+          "text": null,
+          "description": {
+            "en": "We need a simple, sturdy solution! A place to gather around, warm up, and share tales while resting.\n It must be strong enough to withstand whatever comes our way.",
+            "de": "Wir brauchen eine einfache, robuste Lösung! Einen Ort, um sich zu versammeln, aufzuwärmen und Geschichten auszutauschen. Es sollte stark genug sein, um allem standzuhalten, was uns begegnet."
+          }
+        },
+        {
+          "key": "Mission_Board_Survivalists_Fortifications",
+          "text": null,
+          "description": {
+            "en": "They’re closing in. We need something to fill the holes in our walls and fortify our stronghold. Every plank counts.\n Make it sturdy, make it reliable, and make sure nothing gets through.",
+            "de": "Sie kommen näher. Wir brauchen etwas, um die Löcher in unseren Wänden zu füllen, um unsere Festung zu verstärken. Jede Planke zählt. Es muss stabil und zuverlässig sein und dafür sorgen dafür, dass nichts durchkommt."
+          }
+        },
+        {
+          "key": "Mission_Board_Survivalists_TrustyCompanion",
+          "text": null,
+          "description": {
+            "en": "They’re coming. We need a trusty whacker to hold back the hordes. He must be strong, reliable, and efficient. Ready to smack anything that stands in the way",
+            "de": "Sie kommen. Wir brauchen einen verlässlichen Prügler, um die Horden aufzuhalten. Er muss robust und effizient sein. Bereit, alles zu treffen, was sich ihm in den Weg stellt."
+          }
+        },
+        {
+          "key": "Mission_Board_Survivalists_NightstandTinFoil",
+          "text": null,
+          "name": {
+            "en": "Special Nightstand Delivery",
+            "de": "Spezielle Nachttisch Lieferung"
+          },
+          "description": {
+            "en": "Suppliers shut us out, because we buy too much tinfoil. But we still need this precious resource for strategic reasons. Can you supply us 12 tinfoil rolls delivered it in a nightstand, so that noone else will ask questions?",
+            "de": "Die Lieferanten lassen uns nicht mehr kaufen, weil wir zu viel Alufolie abnehmen. Aber wir brauchen diese wertvolle Ressource aus strategischen Gründen. Kannst du uns 12 Rollen Alufolie liefern, verpackt in einem Nachttisch, damit niemand Fragen stellt?"
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "Nerds",
+      "missions": [
+        {
+          "key": "Mission_Board_Nerds_MixingProcess",
+          "text": null,
+          "description": {
+            "en": "I attempted to upgrade my mom’s bread recipe. It did not go well. Please help me establish a reliable system before I accidentally destroy the entire house.",
+            "de": "Ich habe versucht, das Brotrezept meiner Mutter zu verbessern. Das ist nicht gut ausgegangen. Bitte hilf mir, ein zuverlässiges System einzurichten, bevor ich aus Versehen das ganze Haus zerstöre."
+          },
+          "name": {
+            "en": "Baking Bread",
+            "de": "Baking Bread"
+          }
+        },
+        {
+          "key": "Mission_Board_Nerds_TournamentController",
+          "text": null,
+          "description": {
+            "en": "There’s a major esports tournament coming up, and I’m aiming for first place. Hook me up with a custom pro-level controller so I can dominate the competition.",
+            "de": "Es steht ein großes E-Sport-Turnier an, und ich will den ersten Platz holen. Baue mir einen custom Controller auf Profiniveau, damit ich die Konkurrenz dominieren kann."
+          },
+          "name": {
+            "en": "Controller to win",
+            "de": "Gewinnbringender Controller"
+          }
+        },
+        {
+          "key": "Mission_Board_Nerds_GamingConsole",
+          "text": null,
+          "description": {
+            "en": "We need an affordable, high quality upgrade for our game console. It must support 32-bit visuals, up to two controllers, fast lighting processing, widescreen output, and include a superior game.",
+            "de": "Wir brauchen ein erschwingliches, hochwertiges Upgrade für unsere Spielkonsole. Es muss 32-Bit-Grafik unterstützen, bis zu zwei Controller, schnelle Grafikverarbeitung, Breitbildausgabe und ein erstklassiges Spiel beinhalten."
+          },
+          "name": {
+            "en": "A solid console",
+            "de": "Eine solide Konsole"
+          }
+        },
+        {
+          "key": "Mission_Board_Nerds_PC",
+          "text": null,
+          "name": {
+            "en": "Fantasy themed LAN party",
+            "de": "Themenbezogene Lan-Party: Fantasy  "
+          },
+          "description": {
+            "en": "My buddies and I go to a medieval themed LAN party. We’re going as knights and want wooden PCs that perfectly match the setting.",
+            "de": "Meine Kumpels und ich nehmen an einer LAN-Party mit Fantasy-Thema teil. Wir gehen als Ritter und wollen Holz-PCs, die perfekt zu dem Setting passen."
+          }
+        },
+        {
+          "key": "Mission_Board_Nerds_Boombox",
+          "text": null,
+          "name": {
+            "en": "Sound of justice!",
+            "de": "Klang der Gerechtigkeit!"
+          },
+          "description": {
+            "en": "Hey, got a boombox? My neighbors party all night at least four times a week. I asked them to turn the music down a notch, so that I can focus on my projects, but they don't care. I want to return the favor at sunrise. Fair is fair.",
+            "de": "Hey, hast du eine Boombox? Meine Nachbarn feiern mindestens viermal die Woche die ganze Nacht durch. Ich habe sie gebeten, die Musik etwas leiser zu machen, damit ich mich auf meine Projekte konzentrieren kann, aber es interessiert sie nicht. Ich will mich bei Sonnenaufgang revanchieren. Gleiches Recht für alle."
+          }
+        }
+      ]
+    },
+    {
+      "targetAudience": "AdultsClub",
+      "missions": [
+        {
+          "key": "Mission_Board_AdultsClub_SplinterFreeFurniture",
+          "text": null,
+          "description": {
+            "en": "WE, the Club Members, need seating that’s truly exciting. The old furniture is worn out and full of more poky splinters than we can count.\n We need a solution for robust, reliable, and bold seating that keeps everyone safe.",
+            "de": "WIR, die Clubmitglieder, brauchen Sitzgelegenheiten, die besonders aufregend sind. Die alten Möbel sind abgenutzt und voller von Splittern. Wir brauchen eine robuste, zuverlässige und markante Sitzgelegenheiten."
+          }
+        },
+        {
+          "key": "Mission_Board_AdultsClub_NeverLetGo",
+          "text": null,
+          "description": {
+            "en": "WE, the Club Members, need space for the naughty ones. it must be confined yet comfortable, with a timeless design. once inside, they might never want to leave. \n So... send us some furniture... NOW!",
+            "de": "WIR, die Clubmitglieder, brauchen etwas für die Ungezogenen. Es sollte eng, aber dennoch komfortabel sein, in einem zeitlosen Design. Einmal drin, wollen sie vielleicht nie wieder hinaus.Also... Mach jetzt!"
+          }
+        },
+        {
+          "key": "Mission_Board_AdultsClub_MakeitStraight",
+          "text": null,
+          "description": {
+            "en": "WE, the Club Members, demand an aperture to stretch and straighten after all this bending over.\n Craft it for us... This is an Command!",
+            "de": "WIR, die Clubmitglieder, fordern eine Aparatur, um uns nach all dem Bücken zu strecken. Stelle uns diese her. Dies ist ein Befehl!"
+          }
+        },
+        {
+          "key": "Mission_Board_AdultsClub_LockedButFree",
+          "text": null,
+          "description": {
+            "en": "WE, the Club Members, demand a tiny, quirky aperture. Keep us in place but let us dance, pure fun for our lot. Craft it, immediately!",
+            "de": "WIR, die Clubmitglieder, fordern eine kleine, skurrile Wohnlandschaft. Welche uns festhält aber zugleich auch frei Tanzen lässt, der reinste Spaß für unsere Truppe. Fertige sie, sofort!"
+          }
+        }
+      ]
+    }
+  ]
+}
