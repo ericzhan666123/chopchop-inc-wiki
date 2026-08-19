@@ -50,17 +50,17 @@ function placeLabelLayout(places: DisplayPlace[], locale: Locale) {
   });
 }
 
-export function InteractiveMap({ markers, locale, lockedCategory }: { markers: MapMarker[]; locale: Locale; lockedCategory?: MapCategorySlug }) {
+export function InteractiveMap({ markers, locale, lockedCategory, guideCategories }: { markers: MapMarker[]; locale: Locale; lockedCategory?: MapCategorySlug; guideCategories?: MapCategorySlug[] }) {
   const de = locale === "de";
   const [layer, setLayer] = useState<"overworld" | "dungeon">("overworld");
   const [selected, setSelected] = useState<SelectedItem | null>(null);
-  const [enabled, setEnabled] = useState<MapCategorySlug[]>(lockedCategory ? [lockedCategory] : defaultCategories);
+  const [enabled, setEnabled] = useState<MapCategorySlug[]>(lockedCategory ? [lockedCategory] : guideCategories ?? defaultCategories);
   const [showPlaces, setShowPlaces] = useState(true);
   const [zoom, setZoom] = useState(1);
   const mapScrollRef = useRef<HTMLDivElement>(null);
   const pointers = useRef(new Map<number, { x: number; y: number }>());
   const pinch = useRef<{ distance: number; zoom: number; anchorX: number; anchorY: number } | null>(null);
-  const categories = lockedCategory ? [lockedCategory] : mapCategorySlugs;
+  const categories = lockedCategory ? [lockedCategory] : guideCategories ?? mapCategorySlugs;
   const bounds = mapBounds.dungeon;
   const dungeonHeight = DUNGEON_WIDTH * ((bounds.maxZ - bounds.minZ) / (bounds.maxX - bounds.minX));
   const canvasWidth = layer === "overworld" ? OVERWORLD_WIDTH : DUNGEON_WIDTH;
