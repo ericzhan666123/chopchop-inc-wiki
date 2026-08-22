@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T03:49:52.915Z",
+  "fetchedAt": "2026-08-22T03:40:40.697Z",
   "totalAchievements": 21,
   "source": "https://steamcommunity.com/stats/4369130/achievements/",
   "achievements": [
@@ -7,7 +7,7 @@
       "slug": "your-new-love",
       "displayName": "Your new love",
       "description": "Get the wooden axe",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/dcff13a2f1ac8c09d25074f946ae5d42d0285f1d.jpg",
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/dcff13a2f1ac8c09d25074f946ae5d42d0285f1d.jpg",
       "globalPercent": 98,
       "rarity": "common"
     },
@@ -15,160 +15,160 @@
       "slug": "tutorial",
       "displayName": "Tutorial",
       "description": "Yeah yeah, Chester ...",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/63f5fad0884ad627359ad9437020fa689ab06a12.jpg",
-      "globalPercent": 82,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/63f5fad0884ad627359ad9437020fa689ab06a12.jpg",
+      "globalPercent": 82.1,
       "rarity": "common"
     },
     {
       "slug": "your-new-best-friend",
       "displayName": "Your new best friend",
       "description": "Find Bober the Builder",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/66f71339425a03c7a30f2b8364148cdbed7b01c1.jpg",
-      "globalPercent": 71.1,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/66f71339425a03c7a30f2b8364148cdbed7b01c1.jpg",
+      "globalPercent": 71.3,
       "rarity": "common"
     },
     {
       "slug": "home-sweet-home",
       "displayName": "Home sweet Home",
       "description": "Build the house",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/09e2933535908b588c0544d886be91ffac1d1f49.jpg",
-      "globalPercent": 67.9,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/09e2933535908b588c0544d886be91ffac1d1f49.jpg",
+      "globalPercent": 68.1,
       "rarity": "common"
     },
     {
       "slug": "baby-steps",
       "displayName": "Baby steps",
       "description": "Have 1000 money in Chester's inventory",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/8a2b888dae6ece3958cec56e2b05d83b797e9401.jpg",
-      "globalPercent": 66.8,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/8a2b888dae6ece3958cec56e2b05d83b797e9401.jpg",
+      "globalPercent": 67,
       "rarity": "common"
     },
     {
       "slug": "steam-is-progress",
       "displayName": "Steam is Progress",
       "description": "Build the Working Hall",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/421f907f993c50763a64aa699dcaa71036ce2ae2.jpg",
-      "globalPercent": 45.4,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/421f907f993c50763a64aa699dcaa71036ce2ae2.jpg",
+      "globalPercent": 45.8,
       "rarity": "uncommon"
     },
     {
       "slug": "king-of-the-hill",
       "displayName": "King of the Hill",
       "description": "Reach the top of the mountain",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/acbe484c61c15837bf73fca6eb063cda3496e398.jpg",
-      "globalPercent": 34.8,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/acbe484c61c15837bf73fca6eb063cda3496e398.jpg",
+      "globalPercent": 35.3,
       "rarity": "uncommon"
     },
     {
       "slug": "getting-there",
       "displayName": "Getting there",
       "description": "Have 10000 money in Chester's inventory",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/0574b53865100b930ea02b9525bdef092f307a14.jpg",
-      "globalPercent": 33.3,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/0574b53865100b930ea02b9525bdef092f307a14.jpg",
+      "globalPercent": 33.7,
       "rarity": "uncommon"
     },
     {
       "slug": "you-found-our-secret-base",
       "displayName": "You found our secret base",
       "description": null,
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/2e6c70825f76840d466d7fb97abe3ddba2d92af4.jpg",
-      "globalPercent": 22.6,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/2e6c70825f76840d466d7fb97abe3ddba2d92af4.jpg",
+      "globalPercent": 23,
       "rarity": "uncommon"
     },
     {
       "slug": "why-not",
       "displayName": "Why not?",
       "description": "Solve all missions of the League of Little Rascals",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/9a138c63a68596845b1b277c25bb3d3a58f0f2c8.jpg",
-      "globalPercent": 20.2,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/9a138c63a68596845b1b277c25bb3d3a58f0f2c8.jpg",
+      "globalPercent": 20.6,
       "rarity": "uncommon"
     },
     {
       "slug": "structure-is-freedom-files-are-forever",
       "displayName": "Structure is freedom. Files are forever.",
       "description": "Solve all City Admin missions",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/5870a217084c0c79a2e4544e9ef57d7b72d93813.jpg",
-      "globalPercent": 17.8,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/5870a217084c0c79a2e4544e9ef57d7b72d93813.jpg",
+      "globalPercent": 18.2,
       "rarity": "rare"
     },
     {
       "slug": "in-the-beginning-there-was-the-protein",
       "displayName": "In the beginning, there was the Protein.",
       "description": "Solve all missions of the Church of Eternal Gains",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/f9424be967c2b0c25495eb9d7873b5dd1d3f2f60.jpg",
-      "globalPercent": 17.3,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/f9424be967c2b0c25495eb9d7873b5dd1d3f2f60.jpg",
+      "globalPercent": 17.7,
       "rarity": "rare"
     },
     {
       "slug": "aluminum-foil-is-essential",
       "displayName": "Aluminum foil is essential.",
       "description": "Solve all missions of the Tactical Tinfoil Society",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/255df4562aafab6538da768359ef95be18400402.jpg",
-      "globalPercent": 17,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/255df4562aafab6538da768359ef95be18400402.jpg",
+      "globalPercent": 17.4,
       "rarity": "rare"
     },
     {
       "slug": "if-it-works-it-works",
       "displayName": "If it works, it works.",
       "description": "Solve all missions of the Union of Questionable Safety Practices",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/6a990aeb0f8389437badae74c46175b277a82af7.jpg",
-      "globalPercent": 16.2,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/6a990aeb0f8389437badae74c46175b277a82af7.jpg",
+      "globalPercent": 16.6,
       "rarity": "rare"
     },
     {
       "slug": "there-is-always-an-optimal-way",
       "displayName": "There is always an optimal way.",
       "description": "Solve all missions of the Spreadsheet Militia",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/332bd78c5f295bb66aff6890da0711a7b925ecc2.jpg",
-      "globalPercent": 16,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/332bd78c5f295bb66aff6890da0711a7b925ecc2.jpg",
+      "globalPercent": 16.4,
       "rarity": "rare"
     },
     {
       "slug": "millionaire-almost-kinda",
       "displayName": "Millionaire ... almost ... kinda",
       "description": "Have 100.000 money in Chester's inventory",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/8229124161442e1fe55d9588d9d2473378daf5b4.jpg",
-      "globalPercent": 15.2,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/8229124161442e1fe55d9588d9d2473378daf5b4.jpg",
+      "globalPercent": 15.6,
       "rarity": "rare"
     },
     {
       "slug": "bye-bye-furnox",
       "displayName": "Bye Bye Furnox",
       "description": "Stomp Furnox into the ground!",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/36ff65a0af14e86e153e59e8bb64bd47b159cb27.jpg",
-      "globalPercent": 14.6,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/36ff65a0af14e86e153e59e8bb64bd47b159cb27.jpg",
+      "globalPercent": 15,
       "rarity": "rare"
     },
     {
       "slug": "what-happens-here-was-tastefully-planned",
       "displayName": "What happens here was tastefully planned.",
       "description": "Solve all Discreet Book Club missions",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/3a77401d0f178af1befe3e226ec0f86178251572.jpg",
-      "globalPercent": 14.1,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/3a77401d0f178af1befe3e226ec0f86178251572.jpg",
+      "globalPercent": 14.5,
       "rarity": "rare"
     },
     {
       "slug": "taste-is-inherited",
       "displayName": "Taste is inherited.",
       "description": "Solve all missions of the Champagne Committee",
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/c1e4d6bb2a6a2671b0a4f4eb0fb5587095c24055.jpg",
-      "globalPercent": 13.6,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/c1e4d6bb2a6a2671b0a4f4eb0fb5587095c24055.jpg",
+      "globalPercent": 14,
       "rarity": "rare"
     },
     {
       "slug": "hail-thee-king-nugget",
       "displayName": "Hail thee, King Nugget!",
       "description": null,
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/021e24af9391af30324eaeb2aabb54ab6b7e444c.jpg",
-      "globalPercent": 12,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/021e24af9391af30324eaeb2aabb54ab6b7e444c.jpg",
+      "globalPercent": 12.3,
       "rarity": "rare"
     },
     {
       "slug": "my-kind-of-zen",
       "displayName": "My kind of Zen",
       "description": null,
-      "icon": "https://shared.fastly.steamstatic.com/community_assets/images/apps/4369130/a66fdc5a8f44d409063114b1506a256b9eb8d71a.jpg",
-      "globalPercent": 11.7,
+      "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/a66fdc5a8f44d409063114b1506a256b9eb8d71a.jpg",
+      "globalPercent": 12,
       "rarity": "rare"
     }
   ]
