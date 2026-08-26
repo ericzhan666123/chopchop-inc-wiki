@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-25T03:47:43.452Z",
+  "fetchedAt": "2026-08-26T03:53:07.772Z",
   "updates": [
+    {
+      "gid": "1841579228678114",
+      "slug": "hotfix-10",
+      "title": "Hotfix #10",
+      "date": "2026-08-25",
+      "excerpt": "- The issue where the mission \"Get Chester's Picture\" was incorrectly restarted has been fixed. - The image used to introduce the topic of firewood is no longer displayed - Removed duplicate Spikes…",
+      "url": "https://store.steampowered.com/news/app/4369130/view/1841579228678114",
+      "author": "rvL_eXile"
+    },
     {
       "gid": "1840944183779871",
       "slug": "hotfix-9",
