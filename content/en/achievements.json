@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T07:49:04.390Z",
+  "fetchedAt": "2026-09-04T07:49:13.962Z",
   "totalAchievements": 21,
   "source": "https://steamcommunity.com/stats/4369130/achievements/",
   "achievements": [
@@ -24,7 +24,7 @@
       "displayName": "Your new best friend",
       "description": "Find Bober the Builder",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/66f71339425a03c7a30f2b8364148cdbed7b01c1.jpg",
-      "globalPercent": 72.6,
+      "globalPercent": 72.7,
       "rarity": "common"
     },
     {
@@ -56,7 +56,7 @@
       "displayName": "King of the Hill",
       "description": "Reach the top of the mountain",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/acbe484c61c15837bf73fca6eb063cda3496e398.jpg",
-      "globalPercent": 38.8,
+      "globalPercent": 39,
       "rarity": "uncommon"
     },
     {
@@ -64,7 +64,7 @@
       "displayName": "Getting there",
       "description": "Have 10000 money in Chester's inventory",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/0574b53865100b930ea02b9525bdef092f307a14.jpg",
-      "globalPercent": 38,
+      "globalPercent": 38.2,
       "rarity": "uncommon"
     },
     {
@@ -72,7 +72,7 @@
       "displayName": "You found our secret base",
       "description": null,
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/2e6c70825f76840d466d7fb97abe3ddba2d92af4.jpg",
-      "globalPercent": 25.7,
+      "globalPercent": 25.8,
       "rarity": "uncommon"
     },
     {
@@ -80,7 +80,7 @@
       "displayName": "Why not?",
       "description": "Solve all missions of the League of Little Rascals",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/9a138c63a68596845b1b277c25bb3d3a58f0f2c8.jpg",
-      "globalPercent": 24.3,
+      "globalPercent": 24.5,
       "rarity": "uncommon"
     },
     {
@@ -88,7 +88,7 @@
       "displayName": "Structure is freedom. Files are forever.",
       "description": "Solve all City Admin missions",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/5870a217084c0c79a2e4544e9ef57d7b72d93813.jpg",
-      "globalPercent": 22,
+      "globalPercent": 22.2,
       "rarity": "uncommon"
     },
     {
@@ -96,7 +96,7 @@
       "displayName": "In the beginning, there was the Protein.",
       "description": "Solve all missions of the Church of Eternal Gains",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/f9424be967c2b0c25495eb9d7873b5dd1d3f2f60.jpg",
-      "globalPercent": 21.4,
+      "globalPercent": 21.5,
       "rarity": "uncommon"
     },
     {
@@ -104,7 +104,7 @@
       "displayName": "Aluminum foil is essential.",
       "description": "Solve all missions of the Tactical Tinfoil Society",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/255df4562aafab6538da768359ef95be18400402.jpg",
-      "globalPercent": 21,
+      "globalPercent": 21.1,
       "rarity": "uncommon"
     },
     {
@@ -112,7 +112,7 @@
       "displayName": "If it works, it works.",
       "description": "Solve all missions of the Union of Questionable Safety Practices",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/6a990aeb0f8389437badae74c46175b277a82af7.jpg",
-      "globalPercent": 20.2,
+      "globalPercent": 20.3,
       "rarity": "uncommon"
     },
     {
@@ -120,7 +120,7 @@
       "displayName": "There is always an optimal way.",
       "description": "Solve all missions of the Spreadsheet Militia",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/332bd78c5f295bb66aff6890da0711a7b925ecc2.jpg",
-      "globalPercent": 20,
+      "globalPercent": 20.2,
       "rarity": "uncommon"
     },
     {
@@ -128,7 +128,7 @@
       "displayName": "Millionaire ... almost ... kinda",
       "description": "Have 100.000 money in Chester's inventory",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/8229124161442e1fe55d9588d9d2473378daf5b4.jpg",
-      "globalPercent": 19.4,
+      "globalPercent": 19.5,
       "rarity": "rare"
     },
     {
@@ -136,7 +136,7 @@
       "displayName": "Bye Bye Furnox",
       "description": "Stomp Furnox into the ground!",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/36ff65a0af14e86e153e59e8bb64bd47b159cb27.jpg",
-      "globalPercent": 18.3,
+      "globalPercent": 18.5,
       "rarity": "rare"
     },
     {
@@ -144,7 +144,7 @@
       "displayName": "What happens here was tastefully planned.",
       "description": "Solve all Discreet Book Club missions",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/3a77401d0f178af1befe3e226ec0f86178251572.jpg",
-      "globalPercent": 18,
+      "globalPercent": 18.2,
       "rarity": "rare"
     },
     {
@@ -152,7 +152,7 @@
       "displayName": "Taste is inherited.",
       "description": "Solve all missions of the Champagne Committee",
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/c1e4d6bb2a6a2671b0a4f4eb0fb5587095c24055.jpg",
-      "globalPercent": 17.4,
+      "globalPercent": 17.6,
       "rarity": "rare"
     },
     {
@@ -160,7 +160,7 @@
       "displayName": "Hail thee, King Nugget!",
       "description": null,
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/021e24af9391af30324eaeb2aabb54ab6b7e444c.jpg",
-      "globalPercent": 14.7,
+      "globalPercent": 14.8,
       "rarity": "rare"
     },
     {
@@ -168,7 +168,7 @@
       "displayName": "My kind of Zen",
       "description": null,
       "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4369130/a66fdc5a8f44d409063114b1506a256b9eb8d71a.jpg",
-      "globalPercent": 14.3,
+      "globalPercent": 14.4,
       "rarity": "rare"
     }
   ]
